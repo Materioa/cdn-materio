@@ -4,25 +4,31 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>No Access</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f0f0f0;
-            font-family: Arial, sans-serif;
-        }
-        h1 {
-            color: #ff0000;
-            font-size: 3em;
-            text-align: center;
-        }
-    </style>
+    <title>Whitelabel Error Page</title>
 </head>
 <body>
-    <h1>No Access</h1>
+    <h1>Whitelabel Error Page</h1>
+    <p>This application has no explicit mapping for <code>/error</code>, so you are seeing this as a fallback.</p>
+    <p id="date-time">Wed Aug 21 17:42:53 CST 2024</p>
+    <p>There was an unexpected error (type=Not Found, status=404).</p>
+    <p>No message available</p>
+
+    <script>
+        function formatDate(date) {
+            const options = {
+                weekday: 'short', 
+                year: 'numeric', 
+                month: 'short', 
+                day: 'numeric', 
+                hour: '2-digit', 
+                minute: '2-digit', 
+                second: '2-digit', 
+                timeZoneName: 'short'
+            };
+            return date.toLocaleDateString('en-US', options);
+        }
+
+        document.getElementById('date-time').textContent = formatDate(new Date());
+    </script>
 </body>
 </html>
