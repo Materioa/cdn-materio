@@ -59,7 +59,7 @@ To allow cross-origin requests, especially from the Materio main website, a _hea
 ```
 This configuration allows resources in this repository to be accessed from the `materioa.netlify.app` domain.
 
-##Deployment
+## Deployment
 This repository is automatically deployed via Netlify. Any changes pushed to the main branch will trigger a new deployment.
 
 Deployment URL
