@@ -1,0 +1,37 @@
+{
+    "1": {
+        "oss": ["intro", "case study", "principles"],
+        "maths-1": ["fode", "matrices", "multivariable"],
+        "ctsd": ["pointers", "loops", "arrays", "strings"],
+        "eee": ["semiconductors", "sensors", "diode"]
+    },
+    "2": {
+        "CTSD-2": ["DMA", "Preprocessor Directives", "Enumerators, Structures, Unions", "Searching and Sorting", "Data Structures: List-Linear List"],
+        "Maths-2": ["HODE", "Power Series", "Laplace Transform", "Fourier Integral", "Vector Calculus", "Multivariable Calculus (Integration)", "Tutorial 1A", "Tutorial 1B", "Tutorial 2", "Tutorial 3", "Assignment 1", "Assignment 2", "Assignment 5", "Question Bank 1", "Question Bank 2", "PYQ_19.11.22", "PYQ_15.05.23", "PYQ_18.01.24"],
+        "E-Physics": ["Modern Physics", "Band Theory and Semiconductors", "Materials", "Laser and Fibre optics", "Devices", "Book for Optical Fibre", "Book for Laser", "Question Bank 1", "Assignment 1", "Assignment 2", "Important Questions"],
+        "GCF": ["Cloud Concepts", "Azure Services", "Security, Privacy, Compliance, and Trust", "Azure Pricing and Support", "Azure SLA and Service Lifecycles", "Azure Question Bank", "Assignment 1", "Important Questions", "QB for Mid Sem"],
+        "DT": ["Overview of Design Thinking", "Defining Needs, Ideation for Solutions,Prototyping", "Testing the solution,Problem Solving Mindset", "Human Centered Design, Design for the Environment", "Design Thinking and Innovation Management Culture"],
+        "ICT": ["Lab"],
+        "ACTW": ["Developing Effective Listening Skills", "Error Analysis", "Delivering Different Types of Speeches", "Professional Presentations", "Essay writing", "Reading Comprehension", "Project Proposal", "Misplaced Modifiers", "Movie Review", "Narrative Writing", "Writing Reports", "Critical Thinking", "Activity Session (Presentation)"]
+    },
+    "3": {
+        "Object Oriented Programming with Java": ["Design Introduction", "Data types,variable,operators", "Control Statements", "Arrays", "Object Oriented Programming", "Inheritance", "Strings, Packages and interfaces", "Exception Handling", "Multi Threading", "Collections Framework"],
+        "Design of Data Structures": ["Introduction", "Stacks, Recursion and Queue", "Linked Lists", "Searching and Sorting", "Trees", "Red Black Trees and AVL Trees", "Hashing", "Graphs"],
+        "Database Management Systems": ["Introduction", "SQL", "Data Models", "Relational Data Model", "Relational Database Design", "Transaction", "Query Processing", "Security", "PL/SQL Concepts"],
+        "Discrete Mathematics": ["Sets, Relation and Function", "Principles of Mathematical Induction", "Propositional Logic", "Algebraic Structures and Morphism", "Graphs and Trees"],
+        "Digital Electronics": ["Fundamentals of Digital Systems and logic families", "Minimization Techniques", "Combinational Digital Circuits", "SEQUENTIAL CIRCUITS", "A/D and D/A Converters", "Semiconductor Memories And Programmable Logic Devices"],
+        "Professional Communication Skills": []
+    },
+    "4": {
+        "Operating System": ["Syllabus", "Syllabus-lab", "Introduction", "Processes, Thread & Process Scheduling", "Inter-Process Communication", "Deadlocks", "Memory Management", "Virtual Memory", "IO Systems", "IO Systems, File & Disk Management", "Assignment -1", "Assignment -1.1", "Assignment -2", "Assignment -2.1", "Question Bank Unit 1 - 3", "28-12-17", "11-06-18", "12-12-18", "27-05-19"],
+        "Computer Organization and Microprocessor": ["Syllabus", "Syllabus-Lab", "Introduction to Microprocessor 8085", "Instruction Set of 8085", "Microprocessor Architecture and Interfacing - 1", "Microprocessor Architecture and Interfacing - 2", "Programming Methods with Instructions", "Additional Programming Techniques", "8085 Interrupts", "Computer Organization - Register Transfer and Basic Computer Design Register Transfer", "Computer Organization - Assembler and Memory Organization", "Assignment 1", "Assignment 2", "Short and Long Answers", "Question Bank with Answers", "Microprocessor (8085) and its Applications - Book", "04-10-21", "08-08-22", "12-10-22", "30-03-22", "29-01-24"],
+        "Computer Network": ["Syllabus", "Syllabus-Lab", "Data Communication Components", "Data Link Layer and Medium Access Sub Layer", "Network Layer", "Transport Layer", "Application Layer"],
+        "Programming in Python with Full Stack": ["Syllabus", "Syllabus-lab", "Introduction to Python Programming", "Functions", "Modules and Packages", "Flask Framework", "Django Framework", "RESTful APIs", "Question Bank - 1", "Question Bank -2", "Mid Sem Question Bank with Answers"],
+        "Probability, Statistics and Numerical Methods": ["Syllabus", "Correlation, Regression and Curve fitting", "Probability and Probability Distributions", "Solution of a System of Linear Equations, Roots of Algebraic and Transcendental Equations", "Testing of Hypothesis", "Finite Differences and Interpolation", "Numerical Integration", "Tutorial 1", "Tutorial 2", "Assignment 1", "Assignment 1A", "Assignment 2", "Normal Table", "12-02-21", "12-03-21", "06-04-22", "01-05-24"],
+        "Professional Grooming and Personality Development": ["Syllabus", "Self Development and Assessment", "Corporate Etiquette", "Public Speaking", "Reading Skills Activity & Reading Comprehension", "Listening Skills- Inquiry Based Listening Questions"],
+        "Competitive Coding": ["Syllabus"]
+    },
+    "9": {
+        "Miscellaneous": ["Head First Java", "DSA Using C - 2nd Edition"]
+    }
+}
