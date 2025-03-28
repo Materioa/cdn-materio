@@ -1,4 +1,22 @@
 [
+    {
+        "title":"New Materials Uploaded",
+        "message":"New Materials have been added in Question Banks, Handwritten Notes and Refrence Tables categories in Probability, Statistics and Numerical Methods.",
+        "date": "2024-03-28T12:00:00",
+        "links": []
+    },
+    {
+        "title": "New Materials Uploaded",
+        "message": "New Materials have been added in Basics, Chapters, Detailed and eBook Categories in Programming in Python and Full Stack Development.",
+        "date": "2025-03-28T09:45:00",
+        "links": []
+    },
+    {
+        "title": "Materio v4 is Out!",
+        "message": "Materio has a visual refresh and better UX with addition of new Category selection finding desired material is made easy without scrolling long lists of files, FullScreen mode along with new viewer is added to make reading experience better.",
+        "date": "2025-03-28T09:00:00",
+        "links": []
+    },
     { 
         "title": "Materio V3 is Out", 
         "message": "Materio V3 is live! Now based on Jekyll checkout the Release Notes from Settings tab for more details.", 
@@ -14,7 +32,8 @@
     {
         "title": "Test Notification for V4 Channel",
         "message": "Materio has a brand new visual refresh.",
-        "date": "2025-03-27",
+        "date": "1970-03-27",
+        "branch": "channels",
         "links": []
     }
 ]

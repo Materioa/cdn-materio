@@ -98,7 +98,9 @@
             {"type": "Chapters", "content": ["Correlation, Regression and Curve fitting", "Probability and Probability Distributions", "Solution of a System of Linear Equations, Roots of Algebraic and Transcendental Equations", "Testing of Hypothesis", "Finite Differences and Interpolation", "Numerical Integration"]},
             {"type": "Tutorials", "content": ["Tutorial 1", "Tutorial 2"]},
             {"type": "Assignments", "content": ["Assignment 1", "Assignment 1A", "Assignment 2"]},
-            {"type": "Reference Tables", "content": ["Normal Table"]},
+            {"type": "Question Banks","content":["Question Bank"]},
+            {"type": "Handwritten Notes", "content":["Unit 3 - Testing of Hypothesis"]},
+            {"type": "Reference Tables", "content": ["Normal Table","T Table", "Chi - Square Table"]},
             {"type": "Previous Year Papers", "content": ["12-02-21", "12-03-21", "06-04-22", "01-05-24"]}
         ],
         "Professional Grooming and Personality Development": [
