@@ -71,19 +71,23 @@
             {"type": "Chapters", "content": ["Introduction", "Processes, Thread & Process Scheduling", "Inter-Process Communication", "Deadlocks", "Memory Management", "Virtual Memory", "IO Systems", "IO Systems, File & Disk Management"]},
             {"type": "Assignments", "content": ["Assignment -1", "Assignment -1.1", "Assignment -2", "Assignment -2.1"]},
             {"type": "Question Banks", "content": ["Question Bank Unit 1 - 3"]},
-            {"type": "Previous Year Papers", "content": ["28-12-17", "11-06-18", "12-12-18", "27-05-19"]}
+            {"type": "Previous Year Papers", "content": ["28-12-17", "11-06-18", "12-12-18", "27-05-19"]},
+            {"type": "Lab Manual", "content": ["Manual - 2025"]}
         ],
         "Computer Organization and Microprocessor": [
             {"type": "Syllabus", "content": ["Syllabus", "Syllabus-Lab"]},
             {"type": "Chapters", "content": ["Introduction to Microprocessor 8085", "Instruction Set of 8085", "Microprocessor Architecture and Interfacing - 1", "Microprocessor Architecture and Interfacing - 2", "Programming Methods with Instructions", "Additional Programming Techniques", "8085 Interrupts", "Computer Organization - Register Transfer and Basic Computer Design Register Transfer", "Computer Organization - Assembler and Memory Organization"]},
             {"type": "Assignments", "content": ["Assignment 1", "Assignment 2"]},
-            {"type": "Question Banks", "content": ["Short and Long Answers", "Question Bank with Answers"]},
+            {"type": "Question Banks", "content": ["Short and Long Answers", "Question Bank with Answers","Question Bank - 1","Question Bank - 2"]},
             {"type": "Reference Books", "content": ["Microprocessor (8085) and its Applications - Book"]},
-            {"type": "Previous Year Papers", "content": ["04-10-21", "08-08-22", "12-10-22", "30-03-22", "29-01-24"]}
+            {"type": "Previous Year Papers", "content": ["04-10-21", "08-08-22", "12-10-22", "30-03-22", "29-01-24"]},
+            {"type": "Lab Manual", "content": ["Manual - 2025"]}
         ],
         "Computer Network": [
             {"type": "Syllabus", "content": ["Syllabus", "Syllabus-Lab"]},
-            {"type": "Chapters", "content": ["Data Communication Components", "Data Link Layer and Medium Access Sub Layer", "Network Layer", "Transport Layer", "Application Layer"]}
+            {"type": "NPTEL", "content": []},
+            {"type": "Chapters", "content": ["Data Communication Components", "Data Link Layer and Medium Access Sub Layer", "Network Layer", "Transport Layer", "Application Layer"]},
+            {"type": "Lab Manual", "content": ["Manual - 2025"]}
         ],
         "Programming in Python with Full Stack": [
             {"type": "Syllabus", "content": ["Syllabus", "Syllabus-lab"]},
@@ -91,7 +95,8 @@
             {"type": "Chapters", "content": ["Introduction to Python Programming", "Functions", "Modules and Packages", "Flask Framework", "Django Framework", "RESTful APIs"]},
             {"type": "Detailed","content":["Unit 3 - Modules and Pakages.pdf","Unit 3.1 - Database connection with MongoDB and MySQL","Unit 4 - Flask.pdf","Unit 5 - Django.pdf","Unit 6 - RESTful APIs.pdf"]},
             {"type": "Question Banks", "content": ["Question Bank - 1", "Question Bank -2", "Mid Sem Question Bank with Answers"]},
-            {"type": "eBook", "content":["Django - REST - Framework.pdf","Flask.pdf"]}
+            {"type": "eBook", "content":["Django - REST - Framework.pdf","Flask.pdf"]},
+            {"type": "Lab Manual", "content": ["Manual - 2025"]}
         ],
         "Probability, Statistics and Numerical Methods": [
             {"type": "Syllabus", "content": ["Syllabus"]},
@@ -108,7 +113,8 @@
             {"type": "Chapters", "content": ["Self Development and Assessment", "Corporate Etiquette", "Public Speaking", "Reading Skills Activity & Reading Comprehension", "Listening Skills- Inquiry Based Listening Questions"]}
         ],
         "Competitive Coding": [
-            {"type": "Syllabus", "content": ["Syllabus"]}
+            {"type": "Syllabus", "content": ["Syllabus"]},
+            {"type": "Lab Manual", "content": ["Manual - 2025"]}
         ]
     },
     "9": {
