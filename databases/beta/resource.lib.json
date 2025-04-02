@@ -115,6 +115,10 @@
         "Competitive Coding": [
             {"type": "Syllabus", "content": ["Syllabus"]},
             {"type": "Lab Manual", "content": ["Manual - 2025"]}
+        ],
+        "Software Engineering":[
+            {"type": "Syllabus", "content": ["Syllabus", "Syllabus - Lab"]},
+            {"type": "Chapters", "content":["Structured System Design", "Introduction", "Software Testing and Quality Assurance", "Coding and Unit Testing", "Software Project Management", "CASE Tools and Advance Practices of System Dependability and Security", "Requirements Engineering", "Advance Software Engineering"]}
         ]
     },
     "9": {
