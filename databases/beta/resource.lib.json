@@ -449,15 +449,15 @@
             {
                 "type": "Basics",
                 "content": [
-                    "1. Basics.pdf",
-                    "2. Data Types.pdf",
-                    "2. Functions.pdf",
-                    "3. Data Structure.pdf",
-                    "3. Program Flow Control.pdf",
-                    "4. User Defined Function.pdf",
-                    "5. String, List, Tuple & Dictionary.pdf",
-                    "6. Errors and Exception Handling.pdf",
-                    "7. File Handling.pdf"
+                    "1. Basics",
+                    "2. Data Types",
+                    "2. Functions",
+                    "3. Data Structure",
+                    "3. Program Flow Control",
+                    "4. User Defined Function",
+                    "5. String, List, Tuple & Dictionary",
+                    "6. Errors and Exception Handling",
+                    "7. File Handling"
                 ]
             },
             {
@@ -482,10 +482,33 @@
                 ]
             },
             {
+                "type": "ByteXL",
+                "content": [
+                   "Unit 1 Notes",
+                   "Unit 2 Notes",
+                   "Unit 3 Notes",
+                   "Unit 4 Notes",
+                   "Unit 5 Notes",
+                   "Unit 6 Notes"
+                ]
+            },
+            {
+                "type": "PPFSD Parul",
+                "content": [
+                   "PPFD_1",
+                   "PPFD_2",
+                   "PPFD_3",
+                   "PPFD_4",
+                   "PPFD_5",
+                   "PPFD_6"
+                ]
+            },
+            {
                 "type": "Question Banks",
                 "content": [
                     "Question Bank - 1",
                     "Question Bank - 2",
+                    "Question Bank - 3",
                     "Mid Sem Question Bank with Answers"
                 ]
             },
