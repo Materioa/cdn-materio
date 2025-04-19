@@ -255,7 +255,14 @@
                     "Transaction",
                     "Query Processing",
                     "Security",
-                    "PL/SQL Concepts"
+                    "PL-SQL Concepts"
+                ]
+            },
+            {
+                "type": "Question Banks",
+                "content": [
+                    "Question Bank - 1",
+                    "Question Bank - 2"
                 ]
             }
         ],
