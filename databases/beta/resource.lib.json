@@ -188,26 +188,6 @@
                     "Lab"
                 ]
             }
-        ],
-        "ACTW": [
-            {
-                "type": "Chapters",
-                "content": [
-                    "Developing Effective Listening Skills",
-                    "Error Analysis",
-                    "Delivering Different Types of Speeches",
-                    "Professional Presentations",
-                    "Essay writing",
-                    "Reading Comprehension",
-                    "Project Proposal",
-                    "Misplaced Modifiers",
-                    "Movie Review",
-                    "Narrative Writing",
-                    "Writing Reports",
-                    "Critical Thinking",
-                    "Activity Session (Presentation)"
-                ]
-            }
         ]
     },
     "3": {
@@ -290,8 +270,7 @@
                     "Semiconductor Memories And Programmable Logic Devices"
                 ]
             }
-        ],
-        "Professional Communication Skills": []
+        ]
     },
     "4": {
         "Operating System": [
@@ -593,24 +572,6 @@
                     "12-03-21",
                     "06-04-22",
                     "01-05-24"
-                ]
-            }
-        ],
-        "Professional Grooming and Personality Development": [
-            {
-                "type": "Syllabus",
-                "content": [
-                    "Syllabus"
-                ]
-            },
-            {
-                "type": "Chapters",
-                "content": [
-                    "Self Development and Assessment",
-                    "Corporate Etiquette",
-                    "Public Speaking",
-                    "Reading Skills Activity & Reading Comprehension",
-                    "Listening Skills- Inquiry Based Listening Questions"
                 ]
             }
         ],
