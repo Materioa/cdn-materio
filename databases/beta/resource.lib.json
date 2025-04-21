@@ -352,8 +352,7 @@
                     "Programming Methods with Instructions",
                     "Additional Programming Techniques",
                     "8085 Interrupts",
-                    "Computer Organization - Register Transfer and Basic Computer Design Register Transfer",
-                    "Computer Organization - Assembler and Memory Organization"
+                    "Chapter 7"
                 ]
             },
             {
@@ -470,23 +469,23 @@
             {
                 "type": "ByteXL",
                 "content": [
-                   "Unit 1 Notes",
-                   "Unit 2 Notes",
-                   "Unit 3 Notes",
-                   "Unit 4 Notes",
-                   "Unit 5 Notes",
-                   "Unit 6 Notes"
+                    "Unit 1 Notes",
+                    "Unit 2 Notes",
+                    "Unit 3 Notes",
+                    "Unit 4 Notes",
+                    "Unit 5 Notes",
+                    "Unit 6 Notes"
                 ]
             },
             {
                 "type": "PPFSD Parul",
                 "content": [
-                   "PPFD_1",
-                   "PPFD_2",
-                   "PPFD_3",
-                   "PPFD_4",
-                   "PPFD_5",
-                   "PPFD_6"
+                    "PPFD_1",
+                    "PPFD_2",
+                    "PPFD_3",
+                    "PPFD_4",
+                    "PPFD_5",
+                    "PPFD_6"
                 ]
             },
             {
