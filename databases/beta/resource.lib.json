@@ -404,8 +404,36 @@
                 ]
             },
             {
-                "type": "NPTEL",
-                "content": []
+                "type": "NPTEL Weekly Materials",
+                "content": [
+                    "Week-1",
+                    "Week-2",
+                    "Week-3",
+                    "Week-4",
+                    "Week-5",
+                    "Week-6",
+                    "Week-7",
+                    "Week-8",
+                    "Week-9",
+                    "Week-10",
+                    "Week-11",
+                    "Week-12"
+                ]
+            },
+            {
+                "type": "NPTEL Book",
+                "content": [
+                   "CNIP Week 1-12 Transcripts"
+                ]
+            },
+            {
+                "type": "NPTEL Assignment with Solutions",
+                "content": [
+                    "CNIP 2025",
+                    "CNIP 2024",
+                    "CNIP 2023",
+                    "CNIP 2020"
+                ]
             },
             {
                 "type": "Chapters",
