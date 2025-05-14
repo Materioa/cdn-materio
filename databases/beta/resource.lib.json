@@ -1,13 +1,13 @@
 {
     "1": {
-        "oss": [
+        "Open Source Software": [
             {
                 "type": "Chapters",
                 "content": [
                     "Intro to OSS",
                     "Principles & Methodology",
                     "OSS Projects",
-                    "Understanding OSS Enviroment",
+                    "Understanding OSS Environment",
                     "Case Studies Example Projects"
                 ]
             },
@@ -20,7 +20,7 @@
                 ]
             }
         ],
-        "maths-1": [
+        "Maths-1": [
             {
                 "type": "Chapters",
                 "content": [
@@ -30,7 +30,7 @@
                 ]
             }
         ],
-        "ctsd": [
+        "CTSD-1": [
             {
                 "type": "Chapters",
                 "content": [
@@ -41,7 +41,7 @@
                 ]
             }
         ],
-        "eee": [
+        "EEE": [
             {
                 "type": "Chapters",
                 "content": [
