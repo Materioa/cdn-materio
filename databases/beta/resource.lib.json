@@ -4,6 +4,16 @@
             {
                 "type": "Chapters",
                 "content": [
+                    "Intro to OSS",
+                    "Principles & Methodology",
+                    "OSS Projects",
+                    "Understanding OSS Enviroment",
+                    "Case Studies Example Projects"
+                ]
+            },
+            {
+                "type": "Archive 2023-24",
+                "content": [
                     "intro",
                     "case study",
                     "principles"
@@ -423,7 +433,7 @@
             {
                 "type": "NPTEL Book",
                 "content": [
-                   "CNIP Week 1-12 Transcripts"
+                    "CNIP Week 1-12 Transcripts"
                 ]
             },
             {
