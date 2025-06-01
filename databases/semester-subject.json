@@ -1,0 +1,66 @@
+{
+  "1": [
+    "Engineering Mathematics I",
+    "Physics",
+    "Chemistry", 
+    "Engineering Graphics",
+    "Basic Electrical Engineering",
+    "Programming for Problem Solving"
+  ],
+  "2": [
+    "Engineering Mathematics II",
+    "Physics II",
+    "Chemistry II",
+    "Engineering Mechanics",
+    "Basic Electronics Engineering",
+    "Engineering Graphics II"
+  ],
+  "3": [
+    "Engineering Mathematics III",
+    "Data Structures and Algorithms",
+    "Digital Logic Design",
+    "Computer Organization",
+    "Object Oriented Programming",
+    "Database Management Systems"
+  ],
+  "4": [
+    "Engineering Mathematics IV",
+    "Operating Systems",
+    "Computer Networks",
+    "Software Engineering",
+    "Theory of Computation",
+    "Microprocessors"
+  ],
+  "5": [
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Compiler Design",
+    "Computer Graphics",
+    "Distributed Systems",
+    "Web Technologies"
+  ],
+  "6": [
+    "Data Mining",
+    "Information Security",
+    "Mobile Computing",
+    "Cloud Computing",
+    "Internet of Things",
+    "Elective I"
+  ],
+  "7": [
+    "Major Project I",
+    "Advanced Algorithms",
+    "Blockchain Technology",
+    "DevOps",
+    "Elective II",
+    "Internship"
+  ],
+  "8": [
+    "Major Project II",
+    "Industry Training",
+    "Seminar",
+    "Elective III",
+    "Placement Training",
+    "Final Viva"
+  ]
+}
