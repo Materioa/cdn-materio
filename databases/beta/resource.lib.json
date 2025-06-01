@@ -1,873 +1,881 @@
 {
-    "1": {
-        "oss": [
-            {
-                "type": "Chapters",
-                "content": [
-                    "Intro to OSS",
-                    "Principles & Methodology",
-                    "OSS Projects",
-                    "Understanding OSS Environment",
-                    "Case Studies Example Projects"
-                ]
-            },
-            {
-                "type": "Archive 2023-24",
-                "content": [
-                    "intro",
-                    "case study",
-                    "principles"
-                ]
-            }
-        ],
-        "Maths-1": [
-            {
-                "type": "Chapters",
-                "content": [
-                    "fode",
-                    "matrices",
-                    "multivariable"
-                ]
-            }
-        ],
-        "CTSD-1": [
-            {
-                "type": "Chapters",
-                "content": [
-                    "pointers",
-                    "loops",
-                    "arrays",
-                    "strings"
-                ]
-            }
-        ],
-        "EEE": [
-            {
-                "type": "Chapters",
-                "content": [
-                    "semiconductors",
-                    "sensors",
-                    "diode"
-                ]
-            }
+  "1": {
+    "oss": [
+      {
+        "type": "Chapters",
+        "content": [
+          "Intro to OSS",
+          "Principles & Methodology",
+          "OSS Projects",
+          "Understanding OSS Environment",
+          "Case Studies Example Projects"
         ]
-    },
-    "2": {
-        "CTSD-2": [
-            {
-                "type": "Chapters",
-                "content": [
-                    "DMA",
-                    "Preprocessor Directives",
-                    "Enumerators, Structures, Unions",
-                    "Searching and Sorting",
-                    "Data Structures: List-Linear List"
-                ]
-            }
-        ],
-        "Maths-2": [
-            {
-                "type": "Chapters",
-                "content": [
-                    "HODE",
-                    "Power Series",
-                    "Laplace Transform",
-                    "Fourier Integral",
-                    "Vector Calculus",
-                    "Multivariable Calculus (Integration)"
-                ]
-            },
-            {
-                "type": "Tutorials",
-                "content": [
-                    "Tutorial 1A",
-                    "Tutorial 1B",
-                    "Tutorial 2",
-                    "Tutorial 3"
-                ]
-            },
-            {
-                "type": "Assignments",
-                "content": [
-                    "Assignment 1",
-                    "Assignment 2",
-                    "Assignment 5"
-                ]
-            },
-            {
-                "type": "Question Banks",
-                "content": [
-                    "Question Bank 1",
-                    "Question Bank 2"
-                ]
-            },
-            {
-                "type": "Previous Year Papers",
-                "content": [
-                    "PYQ_19.11.22",
-                    "PYQ_15.05.23",
-                    "PYQ_18.01.24"
-                ]
-            }
-        ],
-        "E-Physics": [
-            {
-                "type": "Chapters",
-                "content": [
-                    "Modern Physics",
-                    "Band Theory and Semiconductors",
-                    "Materials",
-                    "Laser and Fibre optics",
-                    "Devices"
-                ]
-            },
-            {
-                "type": "Reference Books",
-                "content": [
-                    "Book for Optical Fibre",
-                    "Book for Laser"
-                ]
-            },
-            {
-                "type": "Question Banks",
-                "content": [
-                    "Question Bank 1"
-                ]
-            },
-            {
-                "type": "Assignments",
-                "content": [
-                    "Assignment 1",
-                    "Assignment 2"
-                ]
-            },
-            {
-                "type": "Important Questions",
-                "content": [
-                    "Important Questions"
-                ]
-            }
-        ],
-        "GCF": [
-            {
-                "type": "Chapters",
-                "content": [
-                    "Cloud Concepts",
-                    "Azure Services",
-                    "Security, Privacy, Compliance, and Trust",
-                    "Azure Pricing and Support",
-                    "Azure SLA and Service Lifecycles"
-                ]
-            },
-            {
-                "type": "Question Banks",
-                "content": [
-                    "Azure Question Bank",
-                    "QB for Mid Sem"
-                ]
-            },
-            {
-                "type": "Assignments",
-                "content": [
-                    "Assignment 1"
-                ]
-            },
-            {
-                "type": "Important Questions",
-                "content": [
-                    "Important Questions"
-                ]
-            }
-        ],
-        "DT": [
-            {
-                "type": "Chapters",
-                "content": [
-                    "Overview of Design Thinking",
-                    "Defining Needs, Ideation for Solutions,Prototyping",
-                    "Testing the solution,Problem Solving Mindset",
-                    "Human Centered Design, Design for the Environment",
-                    "Design Thinking and Innovation Management Culture"
-                ]
-            }
-        ],
-        "ICT": [
-            {
-                "type": "Lab",
-                "content": [
-                    "Lab"
-                ]
-            }
+      },
+      {
+        "type": "Archive 2023-24",
+        "content": [
+          "intro",
+          "case study",
+          "principles"
         ]
-    },
-    "3": {
-        "Object Oriented Programming with Java": [
-            {
-                "type": "Chapters",
-                "content": [
-                    "Design Introduction",
-                    "Data types,variable,operators",
-                    "Control Statements",
-                    "Arrays",
-                    "Object Oriented Programming",
-                    "Inheritance",
-                    "Strings, Packages and interfaces",
-                    "Exception Handling",
-                    "Multi Threading",
-                    "Collections Framework"
-                ]
-            }
-        ],
-        "Design of Data Structures": [
-            {
-                "type": "Chapters",
-                "content": [
-                    "Introduction",
-                    "Stacks, Recursion and Queue",
-                    "Linked Lists",
-                    "Searching and Sorting",
-                    "Trees",
-                    "Red Black Trees and AVL Trees",
-                    "Hashing",
-                    "Graphs"
-                ]
-            }
-        ],
-        "Database Management Systems": [
-            {
-                "type": "Chapters",
-                "content": [
-                    "Introduction",
-                    "SQL",
-                    "Data Models",
-                    "Relational Data Model",
-                    "Relational Database Design",
-                    "Transaction",
-                    "Query Processing",
-                    "Security",
-                    "PL-SQL Concepts"
-                ]
-            },
-            {
-                "type": "Question Banks",
-                "content": [
-                    "Question Bank - 1",
-                    "Question Bank - 2"
-                ]
-            }
-        ],
-        "Discrete Mathematics": [
-            {
-                "type": "Chapters",
-                "content": [
-                    "Sets, Relation and Function",
-                    "Principles of Mathematical Induction",
-                    "Propositional Logic",
-                    "Algebraic Structures and Morphism",
-                    "Graphs and Trees"
-                ]
-            }
-        ],
-        "Digital Electronics": [
-            {
-                "type": "Chapters",
-                "content": [
-                    "Fundamentals of Digital Systems and logic families",
-                    "Minimization Techniques",
-                    "Combinational Digital Circuits",
-                    "SEQUENTIAL CIRCUITS",
-                    "A/D and D/A Converters",
-                    "Semiconductor Memories And Programmable Logic Devices"
-                ]
-            }
+      }
+    ],
+    "Maths-1": [
+      {
+        "type": "Chapters",
+        "content": [
+          "fode",
+          "matrices",
+          "multivariable"
         ]
-    },
-    "4": {
-        "Operating System": [
-            {
-                "type": "Syllabus",
-                "content": [
-                    "Syllabus",
-                    "Syllabus-lab"
-                ]
-            },
-            {
-                "type": "Chapters",
-                "content": [
-                    "Introduction",
-                    "Processes, Thread & Process Scheduling",
-                    "Inter-Process Communication",
-                    "Deadlocks",
-                    "Memory Management",
-                    "Virtual Memory",
-                    "IO Systems",
-                    "IO Systems, File & Disk Management"
-                ]
-            },
-            {
-                "type": "Assignments",
-                "content": [
-                    "Assignment -1",
-                    "Assignment -1.1",
-                    "Assignment -2",
-                    "Assignment -2.1"
-                ]
-            },
-            {
-                "type": "Question Banks",
-                "content": [
-                    "Question Bank - 1",
-                    "Question Bank Unit 1 - 3",
-                    "Important Questions",
-                    "Question Bank - 2",
-                    "Important Questions - 2"
-                ]
-            },
-            {
-                "type": "Previous Year Papers",
-                "content": [
-                    "28-12-17",
-                    "11-06-18",
-                    "12-12-18",
-                    "27-05-19",
-                    "22-04-24",
-                    "20-03-23",
-                    "27-11-19",
-                    "12-12-18",
-                    "06-10-21"
-                ]
-            },
-            {
-                "type": "Lab Manual",
-                "content": [
-                    "Manual - 2025"
-                ]
-            }
-        ],
-        "Computer Organization and Microprocessor": [
-            {
-                "type": "Syllabus",
-                "content": [
-                    "Syllabus",
-                    "Syllabus-Lab"
-                ]
-            },
-            {
-                "type": "Chapters",
-                "content": [
-                    "Introduction to Microprocessor 8085",
-                    "Instruction Set of 8085",
-                    "Microprocessor Architecture and Interfacing - 1",
-                    "Microprocessor Architecture and Interfacing - 2",
-                    "Programming Methods with Instructions",
-                    "Additional Programming Techniques",
-                    "8085 Interrupts",
-                    "8085 Interrupts - 2",
-                    "Chapter 7"
-                ]
-            },
-            {
-                "type": "Assignments",
-                "content": [
-                    "Assignment 1",
-                    "Assignment 2"
-                ]
-            },
-            {
-                "type": "Question Banks",
-                "content": [
-                    "Short and Long Answers",
-                    "Question Bank with Answers",
-                    "Question Bank - 1"
-                ]
-            },
-            {
-                "type": "Reference Books",
-                "content": [
-                    "Microprocessor (8085) and its Applications - Book",
-                    "Ramesh Gaonkar"
-                ]
-            },
-            {
-                "type": "Previous Year Papers",
-                "content": [
-                    "04-10-21",
-                    "08-08-22",
-                    "12-10-22",
-                    "30-03-22",
-                    "29-01-24"
-                ]
-            },
-            {
-                "type": "Lab Manual",
-                "content": [
-                    "Manual - 2025"
-                ]
-            }
-        ],
-        "Computer Network": [
-            {
-                "type": "Syllabus",
-                "content": [
-                    "Syllabus",
-                    "Syllabus-Lab"
-                ]
-            },
-            {
-                "type": "NPTEL Weekly Materials",
-                "content": [
-                    "Week-1",
-                    "Week-2",
-                    "Week-3",
-                    "Week-4",
-                    "Week-5",
-                    "Week-6",
-                    "Week-7",
-                    "Week-8",
-                    "Week-9",
-                    "Week-10",
-                    "Week-11",
-                    "Week-12"
-                ]
-            },
-            {
-                "type": "NPTEL Book",
-                "content": [
-                    "CNIP Week 1-12 Transcripts"
-                ]
-            },
-            {
-                "type": "NPTEL Assignment with Solutions",
-                "content": [
-                    "CNIP 2025",
-                    "CNIP 2024",
-                    "CNIP 2023",
-                    "CNIP 2020"
-                ]
-            },
-            {
-                "type": "Chapters",
-                "content": [
-                    "Data Communication Components",
-                    "Data Link Layer and Medium Access Sub Layer",
-                    "Network Layer",
-                    "Transport Layer",
-                    "Application Layer"
-                ]
-            },
-            {
-                "type": "Lab Manual",
-                "content": [
-                    "Manual - 2025"
-                ]
-            }
-        ],
-        "Programming in Python with Full Stack": [
-            {
-                "type": "Syllabus",
-                "content": [
-                    "Syllabus",
-                    "Syllabus-lab"
-                ]
-            },
-            {
-                "type": "Basics",
-                "content": [
-                    "1. Basics",
-                    "2. Data Types",
-                    "2. Functions",
-                    "3. Data Structure",
-                    "3. Program Flow Control",
-                    "4. User Defined Function",
-                    "5. String, List, Tuple & Dictionary",
-                    "6. Errors and Exception Handling",
-                    "7. File Handling"
-                ]
-            },
-            {
-                "type": "Chapters",
-                "content": [
-                    "Introduction to Python Programming",
-                    "Functions",
-                    "Modules and Packages",
-                    "Flask Framework",
-                    "Django Framework",
-                    "RESTful APIs"
-                ]
-            },
-            {
-                "type": "Detailed",
-                "content": [
-                    "Unit 3 - Modules and Pakages",
-                    "Unit 3.1 - Database connection with MongoDB and MySQL",
-                    "Unit 4 - Flask",
-                    "Unit 5 - Django",
-                    "Unit 6 - RESTful APIs"
-                ]
-            },
-            {
-                "type": "ByteXL",
-                "content": [
-                    "Unit 1 Notes",
-                    "Unit 2 Notes",
-                    "Unit 3 Notes",
-                    "Unit 4 Notes",
-                    "Unit 5 Notes",
-                    "Unit 6 Notes"
-                ]
-            },
-            {
-                "type": "PPFSD Parul",
-                "content": [
-                    "PPFD_1",
-                    "PPFD_2",
-                    "PPFD_3",
-                    "PPFD_4",
-                    "PPFD_5",
-                    "PPFD_6"
-                ]
-            },
-            {
-                "type": "Question Banks",
-                "content": [
-                    "Question Bank - 1",
-                    "Question Bank - 2",
-                    "Question Bank - 3",
-                    "Mid Sem Question Bank with Answers"
-                ]
-            },
-            {
-                "type": "eBook",
-                "content": [
-                    "Django - REST - Framework.pdf",
-                    "Flask.pdf"
-                ]
-            },
-            {
-                "type": "Lab Manual",
-                "content": [
-                    "Manual - 2025"
-                ]
-            }
-        ],
-        "Probability, Statistics and Numerical Methods": [
-            {
-                "type": "Syllabus",
-                "content": [
-                    "Syllabus"
-                ]
-            },
-            {
-                "type": "Chapters",
-                "content": [
-                    "Correlation, Regression and Curve fitting",
-                    "Probability and Probability Distributions",
-                    "Solution of a System of Linear Equations, Roots of Algebraic and Transcendental Equations",
-                    "Testing of Hypothesis",
-                    "Finite Differences and Interpolation",
-                    "Numerical Integration"
-                ]
-            },
-            {
-                "type": "Tutorials",
-                "content": [
-                    "Tutorial 1",
-                    "Tutorial 2"
-                ]
-            },
-            {
-                "type": "Assignments",
-                "content": [
-                    "Assignment 1",
-                    "Assignment 1A",
-                    "Assignment 2"
-                ]
-            },
-            {
-                "type": "Question Banks",
-                "content": [
-                    "Question Bank"
-                ]
-            },
-            {
-                "type": "Handwritten Notes",
-                "content": [
-                    "Unit 3 - Testing of Hypothesis"
-                ]
-            },
-            {
-                "type": "Reference Tables",
-                "content": [
-                    "Normal Table",
-                    "T Table",
-                    "Chi - Square Table"
-                ]
-            },
-            {
-                "type": "Previous Year Papers",
-                "content": [
-                    "12-02-21",
-                    "12-03-21",
-                    "06-04-22",
-                    "01-05-24"
-                ]
-            }
-        ],
-        "Competitive Coding": [
-            {
-                "type": "Syllabus",
-                "content": [
-                    "Syllabus"
-                ]
-            },
-            {
-                "type": "Lab Manual",
-                "content": [
-                    "Manual - 2025"
-                ]
-            }
-        ],
-        "Software Engineering": [
-            {
-                "type": "Syllabus",
-                "content": [
-                    "Syllabus",
-                    "Syllabus - Lab"
-                ]
-            },
-            {
-                "type": "Chapters",
-                "content": [
-                    "Introduction",
-                    "Structured System Design",
-                    "Software Testing and Quality Assurance",
-                    "Coding and Unit Testing",
-                    "Software Project Management",
-                    "CASE Tools and Advance Practices of System Dependability and Security",
-                    "Requirements Engineering",
-                    "Advance Software Engineering"
-                ]
-            },
-            {
-                "type": "Previous Year Papers",
-                "content": [
-                    "25-10-2023",
-                    "02-05-2024",
-                    "24-03-2023",
-                    "28-10-2023",
-                    "19-10-2022",
-                    "08-05-2019"
-                ]
-            },
-            {
-                "type": "Question Banks",
-                "content": [
-                    "Question Bank - 1",
-                    "Question Bank - 2"
-                ]
-            }
+      }
+    ],
+    "CTSD-1": [
+      {
+        "type": "Chapters",
+        "content": [
+          "pointers",
+          "loops",
+          "arrays",
+          "strings"
         ]
-    },
-    "5": {
-        "Design and Analysis of Algorithms": [
-            {
-                "type": "Syllabus",
-                "content": [
-                    "Class",
-                    "Laboratory"
-                ]
-            },
-            {
-                "type": "Chapters",
-                "content": [
-                    "Introduction and Analysis of Algorithms",
-                    "Divide & Conquer Algorithms",
-                    "Greedy Algorithms",
-                    "Dynamic Programming",
-                    "Exploring Graphs",
-                    "Backtracking and Branch & Bound",
-                    "String Matching & NP Completeness"
-                ]
-            },
-            {
-                "type": "Previous Year Papers",
-                "content": []
-            },
-            {
-                "type": "Question Banks",
-                "content": []
-            }
-        ],
-        "Theory of Computation": [
-            {
-                "type": "Syllabus",
-                "content": [
-                    "Class",
-                    "Laboratory"
-                ]
-            },
-            {
-                "type": "Chapters",
-                "content": [
-                    "Introduction",
-                    "Regular languages and finite automata",
-                    "Grammars",
-                    "Turing machines",
-                    "Undecidability"
-                ]
-            },
-            {
-                "type": "Previous Year Papers",
-                "content": []
-            },
-            {
-                "type": "Question Banks",
-                "content": []
-            }
-        ],
-        "Software Engineering": [
-            {
-                "type": "Syllabus",
-                "content": [
-                    "Class",
-                    "Laboratory"
-                ]
-            },
-            {
-                "type": "Chapters",
-                "content": [
-                    "Introduction",
-                    "Software Project Management",
-                    "Requirements Engineering",
-                    "Structured System Design",
-                    "Coding and Unit Testing",
-                    "Software Testing and Quality Assurance",
-                    "CASE Tools and Advance Practices of System Dependability and Security",
-                    "Advance Software Engineering"
-                ]
-            },
-            {
-                "type": "Previous Year Papers",
-                "content": []
-            },
-            {
-                "type": "Question Banks",
-                "content": []
-            }
-        ],
-        "Enterprise Programming": [
-            {
-                "type": "Syllabus",
-                "content": [
-                    "Class",
-                    "Laboratory"
-                ]
-            },
-            {
-                "type": "Chapters",
-                "content": [
-                    "Foundation of Enterprise Programming",
-                    "Servlets",
-                    "JSP- Java Server Programming",
-                    "Hibernate ( ORM )",
-                    "Spring",
-                    "Spring Boot"
-                ]
-            },
-            {
-                "type": "Previous Year Papers",
-                "content": []
-            },
-            {
-                "type": "Question Banks",
-                "content": []
-            }
-        ],
-        "Professionalism &Corporate Ethics": [
-            {
-                "type": "Syllabus",
-                "content": [
-                    "Class",
-                    "Laboratory"
-                ]
-            },
-            {
-                "type": "Chapters",
-                "content": [
-                    "Ethics in Engineering",
-                    "Group Discussion",
-                    "Introduction to B-School Tests",
-                    "Listening Skills- Advanced Level",
-                    "Preparing Brochures",
-                    "Agenda & Minutes of Meeting",
-                    "Reading Comprehension; Intermediate level"
-                ]
-            }
-        ],
-        "AWS Fundamentals": [
-            {
-                "type": "Syllabus",
-                "content": [
-                    "Class",
-                    "Laboratory"
-                ]
-            },
-            {
-                "type": "Chapters",
-                "content": [
-                    "Cloud Concepts",
-                    "Azure Services",
-                    "Security, Privacy, Compliance, and Trust",
-                    "Azure Pricing and Support",
-                    "Azure SLA and Service Lifecycles"
-                ]
-            },
-            {
-                "type": "Previous Year Papers",
-                "content": []
-            },
-            {
-                "type": "Question Banks",
-                "content": []
-            }
-        ],
-        "Data Analytics and Data Visualization": [
-            {
-                "type": "Syllabus",
-                "content": [
-                    "Class",
-                    "Laboratory"
-                ]
-            },
-            {
-                "type": "Chapters",
-                "content": [
-                    "Introduction to Data Analytics",
-                    "Introduction to Python Fundamentals and Statistics",
-                    "Probability and Types of Testing",
-                    "Regression, Classification and Clustering",
-                    "Data Visualization Using PowerBI"
-                ]
-            },
-            {
-                "type": "Previous Year Papers",
-                "content": []
-            },
-            {
-                "type": "Question Banks",
-                "content": []
-            }
+      }
+    ],
+    "EEE": [
+      {
+        "type": "Chapters",
+        "content": [
+          "semiconductors",
+          "sensors",
+          "diode"
         ]
-    },
-    "9": {
-        "Miscellaneous": [
-            {
-                "type": "Reference Books",
-                "content": [
-                    "Head First Java",
-                    "DSA Using C - 2nd Edition"
-                ]
-            }
+      }
+    ],
+    "Physics": [
+      {
+        "type": "Other",
+        "content": [
+          "test page"
         ]
-    }
+      }
+    ]
+  },
+  "2": {
+    "CTSD-2": [
+      {
+        "type": "Chapters",
+        "content": [
+          "DMA",
+          "Preprocessor Directives",
+          "Enumerators, Structures, Unions",
+          "Searching and Sorting",
+          "Data Structures: List-Linear List"
+        ]
+      }
+    ],
+    "Maths-2": [
+      {
+        "type": "Chapters",
+        "content": [
+          "HODE",
+          "Power Series",
+          "Laplace Transform",
+          "Fourier Integral",
+          "Vector Calculus",
+          "Multivariable Calculus (Integration)"
+        ]
+      },
+      {
+        "type": "Tutorials",
+        "content": [
+          "Tutorial 1A",
+          "Tutorial 1B",
+          "Tutorial 2",
+          "Tutorial 3"
+        ]
+      },
+      {
+        "type": "Assignments",
+        "content": [
+          "Assignment 1",
+          "Assignment 2",
+          "Assignment 5"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Question Bank 1",
+          "Question Bank 2"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": [
+          "PYQ_19.11.22",
+          "PYQ_15.05.23",
+          "PYQ_18.01.24"
+        ]
+      }
+    ],
+    "E-Physics": [
+      {
+        "type": "Chapters",
+        "content": [
+          "Modern Physics",
+          "Band Theory and Semiconductors",
+          "Materials",
+          "Laser and Fibre optics",
+          "Devices"
+        ]
+      },
+      {
+        "type": "Reference Books",
+        "content": [
+          "Book for Optical Fibre",
+          "Book for Laser"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Question Bank 1"
+        ]
+      },
+      {
+        "type": "Assignments",
+        "content": [
+          "Assignment 1",
+          "Assignment 2"
+        ]
+      },
+      {
+        "type": "Important Questions",
+        "content": [
+          "Important Questions"
+        ]
+      }
+    ],
+    "GCF": [
+      {
+        "type": "Chapters",
+        "content": [
+          "Cloud Concepts",
+          "Azure Services",
+          "Security, Privacy, Compliance, and Trust",
+          "Azure Pricing and Support",
+          "Azure SLA and Service Lifecycles"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Azure Question Bank",
+          "QB for Mid Sem"
+        ]
+      },
+      {
+        "type": "Assignments",
+        "content": [
+          "Assignment 1"
+        ]
+      },
+      {
+        "type": "Important Questions",
+        "content": [
+          "Important Questions"
+        ]
+      }
+    ],
+    "DT": [
+      {
+        "type": "Chapters",
+        "content": [
+          "Overview of Design Thinking",
+          "Defining Needs, Ideation for Solutions,Prototyping",
+          "Testing the solution,Problem Solving Mindset",
+          "Human Centered Design, Design for the Environment",
+          "Design Thinking and Innovation Management Culture"
+        ]
+      }
+    ],
+    "ICT": [
+      {
+        "type": "Lab",
+        "content": [
+          "Lab"
+        ]
+      }
+    ]
+  },
+  "3": {
+    "Object Oriented Programming with Java": [
+      {
+        "type": "Chapters",
+        "content": [
+          "Design Introduction",
+          "Data types,variable,operators",
+          "Control Statements",
+          "Arrays",
+          "Object Oriented Programming",
+          "Inheritance",
+          "Strings, Packages and interfaces",
+          "Exception Handling",
+          "Multi Threading",
+          "Collections Framework"
+        ]
+      }
+    ],
+    "Design of Data Structures": [
+      {
+        "type": "Chapters",
+        "content": [
+          "Introduction",
+          "Stacks, Recursion and Queue",
+          "Linked Lists",
+          "Searching and Sorting",
+          "Trees",
+          "Red Black Trees and AVL Trees",
+          "Hashing",
+          "Graphs"
+        ]
+      }
+    ],
+    "Database Management Systems": [
+      {
+        "type": "Chapters",
+        "content": [
+          "Introduction",
+          "SQL",
+          "Data Models",
+          "Relational Data Model",
+          "Relational Database Design",
+          "Transaction",
+          "Query Processing",
+          "Security",
+          "PL-SQL Concepts"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Question Bank - 1",
+          "Question Bank - 2"
+        ]
+      }
+    ],
+    "Discrete Mathematics": [
+      {
+        "type": "Chapters",
+        "content": [
+          "Sets, Relation and Function",
+          "Principles of Mathematical Induction",
+          "Propositional Logic",
+          "Algebraic Structures and Morphism",
+          "Graphs and Trees"
+        ]
+      }
+    ],
+    "Digital Electronics": [
+      {
+        "type": "Chapters",
+        "content": [
+          "Fundamentals of Digital Systems and logic families",
+          "Minimization Techniques",
+          "Combinational Digital Circuits",
+          "SEQUENTIAL CIRCUITS",
+          "A/D and D/A Converters",
+          "Semiconductor Memories And Programmable Logic Devices"
+        ]
+      }
+    ]
+  },
+  "4": {
+    "Operating System": [
+      {
+        "type": "Syllabus",
+        "content": [
+          "Syllabus",
+          "Syllabus-lab"
+        ]
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Introduction",
+          "Processes, Thread & Process Scheduling",
+          "Inter-Process Communication",
+          "Deadlocks",
+          "Memory Management",
+          "Virtual Memory",
+          "IO Systems",
+          "IO Systems, File & Disk Management"
+        ]
+      },
+      {
+        "type": "Assignments",
+        "content": [
+          "Assignment -1",
+          "Assignment -1.1",
+          "Assignment -2",
+          "Assignment -2.1"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Question Bank - 1",
+          "Question Bank Unit 1 - 3",
+          "Important Questions",
+          "Question Bank - 2",
+          "Important Questions - 2"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": [
+          "28-12-17",
+          "11-06-18",
+          "12-12-18",
+          "27-05-19",
+          "22-04-24",
+          "20-03-23",
+          "27-11-19",
+          "12-12-18",
+          "06-10-21"
+        ]
+      },
+      {
+        "type": "Lab Manual",
+        "content": [
+          "Manual - 2025"
+        ]
+      }
+    ],
+    "Computer Organization and Microprocessor": [
+      {
+        "type": "Syllabus",
+        "content": [
+          "Syllabus",
+          "Syllabus-Lab"
+        ]
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Introduction to Microprocessor 8085",
+          "Instruction Set of 8085",
+          "Microprocessor Architecture and Interfacing - 1",
+          "Microprocessor Architecture and Interfacing - 2",
+          "Programming Methods with Instructions",
+          "Additional Programming Techniques",
+          "8085 Interrupts",
+          "8085 Interrupts - 2",
+          "Chapter 7"
+        ]
+      },
+      {
+        "type": "Assignments",
+        "content": [
+          "Assignment 1",
+          "Assignment 2"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Short and Long Answers",
+          "Question Bank with Answers",
+          "Question Bank - 1"
+        ]
+      },
+      {
+        "type": "Reference Books",
+        "content": [
+          "Microprocessor (8085) and its Applications - Book",
+          "Ramesh Gaonkar"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": [
+          "04-10-21",
+          "08-08-22",
+          "12-10-22",
+          "30-03-22",
+          "29-01-24"
+        ]
+      },
+      {
+        "type": "Lab Manual",
+        "content": [
+          "Manual - 2025"
+        ]
+      }
+    ],
+    "Computer Network": [
+      {
+        "type": "Syllabus",
+        "content": [
+          "Syllabus",
+          "Syllabus-Lab"
+        ]
+      },
+      {
+        "type": "NPTEL Weekly Materials",
+        "content": [
+          "Week-1",
+          "Week-2",
+          "Week-3",
+          "Week-4",
+          "Week-5",
+          "Week-6",
+          "Week-7",
+          "Week-8",
+          "Week-9",
+          "Week-10",
+          "Week-11",
+          "Week-12"
+        ]
+      },
+      {
+        "type": "NPTEL Book",
+        "content": [
+          "CNIP Week 1-12 Transcripts"
+        ]
+      },
+      {
+        "type": "NPTEL Assignment with Solutions",
+        "content": [
+          "CNIP 2025",
+          "CNIP 2024",
+          "CNIP 2023",
+          "CNIP 2020"
+        ]
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Data Communication Components",
+          "Data Link Layer and Medium Access Sub Layer",
+          "Network Layer",
+          "Transport Layer",
+          "Application Layer"
+        ]
+      },
+      {
+        "type": "Lab Manual",
+        "content": [
+          "Manual - 2025"
+        ]
+      }
+    ],
+    "Programming in Python with Full Stack": [
+      {
+        "type": "Syllabus",
+        "content": [
+          "Syllabus",
+          "Syllabus-lab"
+        ]
+      },
+      {
+        "type": "Basics",
+        "content": [
+          "1. Basics",
+          "2. Data Types",
+          "2. Functions",
+          "3. Data Structure",
+          "3. Program Flow Control",
+          "4. User Defined Function",
+          "5. String, List, Tuple & Dictionary",
+          "6. Errors and Exception Handling",
+          "7. File Handling"
+        ]
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Introduction to Python Programming",
+          "Functions",
+          "Modules and Packages",
+          "Flask Framework",
+          "Django Framework",
+          "RESTful APIs"
+        ]
+      },
+      {
+        "type": "Detailed",
+        "content": [
+          "Unit 3 - Modules and Pakages",
+          "Unit 3.1 - Database connection with MongoDB and MySQL",
+          "Unit 4 - Flask",
+          "Unit 5 - Django",
+          "Unit 6 - RESTful APIs"
+        ]
+      },
+      {
+        "type": "ByteXL",
+        "content": [
+          "Unit 1 Notes",
+          "Unit 2 Notes",
+          "Unit 3 Notes",
+          "Unit 4 Notes",
+          "Unit 5 Notes",
+          "Unit 6 Notes"
+        ]
+      },
+      {
+        "type": "PPFSD Parul",
+        "content": [
+          "PPFD_1",
+          "PPFD_2",
+          "PPFD_3",
+          "PPFD_4",
+          "PPFD_5",
+          "PPFD_6"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Question Bank - 1",
+          "Question Bank - 2",
+          "Question Bank - 3",
+          "Mid Sem Question Bank with Answers"
+        ]
+      },
+      {
+        "type": "eBook",
+        "content": [
+          "Django - REST - Framework.pdf",
+          "Flask.pdf"
+        ]
+      },
+      {
+        "type": "Lab Manual",
+        "content": [
+          "Manual - 2025"
+        ]
+      }
+    ],
+    "Probability, Statistics and Numerical Methods": [
+      {
+        "type": "Syllabus",
+        "content": [
+          "Syllabus"
+        ]
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Correlation, Regression and Curve fitting",
+          "Probability and Probability Distributions",
+          "Solution of a System of Linear Equations, Roots of Algebraic and Transcendental Equations",
+          "Testing of Hypothesis",
+          "Finite Differences and Interpolation",
+          "Numerical Integration"
+        ]
+      },
+      {
+        "type": "Tutorials",
+        "content": [
+          "Tutorial 1",
+          "Tutorial 2"
+        ]
+      },
+      {
+        "type": "Assignments",
+        "content": [
+          "Assignment 1",
+          "Assignment 1A",
+          "Assignment 2"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Question Bank"
+        ]
+      },
+      {
+        "type": "Handwritten Notes",
+        "content": [
+          "Unit 3 - Testing of Hypothesis"
+        ]
+      },
+      {
+        "type": "Reference Tables",
+        "content": [
+          "Normal Table",
+          "T Table",
+          "Chi - Square Table"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": [
+          "12-02-21",
+          "12-03-21",
+          "06-04-22",
+          "01-05-24"
+        ]
+      }
+    ],
+    "Competitive Coding": [
+      {
+        "type": "Syllabus",
+        "content": [
+          "Syllabus"
+        ]
+      },
+      {
+        "type": "Lab Manual",
+        "content": [
+          "Manual - 2025"
+        ]
+      }
+    ],
+    "Software Engineering": [
+      {
+        "type": "Syllabus",
+        "content": [
+          "Syllabus",
+          "Syllabus - Lab"
+        ]
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Introduction",
+          "Structured System Design",
+          "Software Testing and Quality Assurance",
+          "Coding and Unit Testing",
+          "Software Project Management",
+          "CASE Tools and Advance Practices of System Dependability and Security",
+          "Requirements Engineering",
+          "Advance Software Engineering"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": [
+          "25-10-2023",
+          "02-05-2024",
+          "24-03-2023",
+          "28-10-2023",
+          "19-10-2022",
+          "08-05-2019"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Question Bank - 1",
+          "Question Bank - 2"
+        ]
+      }
+    ]
+  },
+  "5": {
+    "Design and Analysis of Algorithms": [
+      {
+        "type": "Syllabus",
+        "content": [
+          "Class",
+          "Laboratory"
+        ]
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Introduction and Analysis of Algorithms",
+          "Divide & Conquer Algorithms",
+          "Greedy Algorithms",
+          "Dynamic Programming",
+          "Exploring Graphs",
+          "Backtracking and Branch & Bound",
+          "String Matching & NP Completeness"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": []
+      },
+      {
+        "type": "Question Banks",
+        "content": []
+      }
+    ],
+    "Theory of Computation": [
+      {
+        "type": "Syllabus",
+        "content": [
+          "Class",
+          "Laboratory"
+        ]
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Introduction",
+          "Regular languages and finite automata",
+          "Grammars",
+          "Turing machines",
+          "Undecidability"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": []
+      },
+      {
+        "type": "Question Banks",
+        "content": []
+      }
+    ],
+    "Software Engineering": [
+      {
+        "type": "Syllabus",
+        "content": [
+          "Class",
+          "Laboratory"
+        ]
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Introduction",
+          "Software Project Management",
+          "Requirements Engineering",
+          "Structured System Design",
+          "Coding and Unit Testing",
+          "Software Testing and Quality Assurance",
+          "CASE Tools and Advance Practices of System Dependability and Security",
+          "Advance Software Engineering"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": []
+      },
+      {
+        "type": "Question Banks",
+        "content": []
+      }
+    ],
+    "Enterprise Programming": [
+      {
+        "type": "Syllabus",
+        "content": [
+          "Class",
+          "Laboratory"
+        ]
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Foundation of Enterprise Programming",
+          "Servlets",
+          "JSP- Java Server Programming",
+          "Hibernate ( ORM )",
+          "Spring",
+          "Spring Boot"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": []
+      },
+      {
+        "type": "Question Banks",
+        "content": []
+      }
+    ],
+    "Professionalism &Corporate Ethics": [
+      {
+        "type": "Syllabus",
+        "content": [
+          "Class",
+          "Laboratory"
+        ]
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Ethics in Engineering",
+          "Group Discussion",
+          "Introduction to B-School Tests",
+          "Listening Skills- Advanced Level",
+          "Preparing Brochures",
+          "Agenda & Minutes of Meeting",
+          "Reading Comprehension; Intermediate level"
+        ]
+      }
+    ],
+    "AWS Fundamentals": [
+      {
+        "type": "Syllabus",
+        "content": [
+          "Class",
+          "Laboratory"
+        ]
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Cloud Concepts",
+          "Azure Services",
+          "Security, Privacy, Compliance, and Trust",
+          "Azure Pricing and Support",
+          "Azure SLA and Service Lifecycles"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": []
+      },
+      {
+        "type": "Question Banks",
+        "content": []
+      }
+    ],
+    "Data Analytics and Data Visualization": [
+      {
+        "type": "Syllabus",
+        "content": [
+          "Class",
+          "Laboratory"
+        ]
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Introduction to Data Analytics",
+          "Introduction to Python Fundamentals and Statistics",
+          "Probability and Types of Testing",
+          "Regression, Classification and Clustering",
+          "Data Visualization Using PowerBI"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": []
+      },
+      {
+        "type": "Question Banks",
+        "content": []
+      }
+    ]
+  },
+  "9": {
+    "Miscellaneous": [
+      {
+        "type": "Reference Books",
+        "content": [
+          "Head First Java",
+          "DSA Using C - 2nd Edition"
+        ]
+      }
+    ]
+  }
 }
