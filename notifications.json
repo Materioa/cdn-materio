@@ -1,93 +1,100 @@
 [
-    {
-        "title": "New Semester Data Initialized!",
-        "message": "5th Semester data have been initialised but it does not necessarily mean it has all the materials available, New materials will be gradually pushed and will be notified via Notification Center.",
-        "date": "2025-05-26T12:39:00",
-        "links":[]
-    },
-    {
-        "title": "New Materials Uploaded!",
-        "message": "New materials have been added in NPTEL Weekly Materials, NPTEL Book and NPTEL Assignment with Solutions Category of Computer Network.",
-        "date": "2025-04-25T07:23:00",
-        "links": []
-    },
-    {
-        "title": "New Materials Uploaded!",
-        "message": "New materials have been added in Reference Books and Chapters Category of Computer Organization and Microprocessor.",
-        "date": "2025-04-24T08:46:38",
-        "links": []
-    },
-    {
-        "title": "New Materials Uploaded!",
-        "message": "New materials have been added in Chapters Category of Computer Organization and Microprocessor.",
-        "date": "2025-04-21T09:14:52",
-        "links": []
-    },
-    {
-        "title": "New Materials Uploaded!",
-        "message": "New Materials have been added in ByteXL, PPFSD Parul and Question Banks Categories in Programming in Python and Full Stack Development.",
-        "date": "2025-04-10T15:14:00",
-        "links": []
-    },
-    {
-        "title": "New Materials Uploaded!",
-        "message": "New materials have been added in Question Banks and PYQ's Category of Operating System.",
-        "date": "2025-04-08T09:32:42",
-        "links": []
-    },
-    {
-        "title": "New Materials Uploaded!",
-        "message": "New materials have been added in Question Banks and PYQ's Category of Software Engineering.",
-        "date": "2025-04-06T14:12:00",
-        "links": []
-    },
-    {
-        "title": "New Materials Uploaded!",
-        "message": "New Materials have been added in Chapters Category in Software Engineering.",
-        "date": "2025-04-02T13:50:00",
-        "links": []
-    },
-    {
-        "title": "New Materials Uploaded!",
-        "message": "New Materials have been added in Question Banks Categories in Computer Organization and Microprocessor Architecture.",
-        "date": "2025-03-29T09:40:00",
-        "links": []
-    },
-    {
-        "title": "New Materials Uploaded!",
-        "message": "New Materials have been added in Question Banks, Handwritten Notes and Refrence Tables Categories in Probability, Statistics and Numerical Methods.",
-        "date": "2025-03-28T12:00:00",
-        "links": []
-    },
-    {
-        "title": "New Materials Uploaded!",
-        "message": "New Materials have been added in Basics, Chapters, Detailed and eBook Categories in Programming in Python and Full Stack Development.",
-        "date": "2025-03-28T09:45:00",
-        "links": []
-    },
-    {
-        "title": "Materio v4 is Out!",
-        "message": "Materio has a visual refresh and better UX with addition of new Category selection finding desired material is made easy without scrolling long lists of files, FullScreen mode along with new viewer is added to make reading experience better.",
-        "date": "2025-03-28T09:00:00",
-        "links": []
-    },
-    {
-        "title": "Materio V3 is Out",
-        "message": "Materio V3 is live! Now based on Jekyll checkout the Release Notes from Settings tab for more details.",
-        "date": "2024-12-12T20:30:00",
-        "links": []
-    },
-    {
-        "title": "Materials Updated",
-        "message": "Few Materials have been added/updated in the PSNM, OS, PPFSD and PGPD.",
-        "date": "2024-12-18T18:34:00",
-        "links": []
-    },
-    {
-        "title": "Test Notification for V4 Channel",
-        "message": "Materio has a brand new visual refresh.",
-        "date": "1970-03-27",
-        "branch": "channels",
-        "links": []
-    }
+  {
+    "title": "File Deleted",
+    "message": "File \"test page.pdf\" has been removed from the system.",
+    "date": "2025-06-04T16:11:24.231Z",
+    "type": "deletion",
+    "links": []
+  },
+  {
+    "title": "New Semester Data Initialized!",
+    "message": "5th Semester data have been initialised but it does not necessarily mean it has all the materials available, New materials will be gradually pushed and will be notified via Notification Center.",
+    "date": "2025-05-26T12:39:00",
+    "links": []
+  },
+  {
+    "title": "New Materials Uploaded!",
+    "message": "New materials have been added in NPTEL Weekly Materials, NPTEL Book and NPTEL Assignment with Solutions Category of Computer Network.",
+    "date": "2025-04-25T07:23:00",
+    "links": []
+  },
+  {
+    "title": "New Materials Uploaded!",
+    "message": "New materials have been added in Reference Books and Chapters Category of Computer Organization and Microprocessor.",
+    "date": "2025-04-24T08:46:38",
+    "links": []
+  },
+  {
+    "title": "New Materials Uploaded!",
+    "message": "New materials have been added in Chapters Category of Computer Organization and Microprocessor.",
+    "date": "2025-04-21T09:14:52",
+    "links": []
+  },
+  {
+    "title": "New Materials Uploaded!",
+    "message": "New Materials have been added in ByteXL, PPFSD Parul and Question Banks Categories in Programming in Python and Full Stack Development.",
+    "date": "2025-04-10T15:14:00",
+    "links": []
+  },
+  {
+    "title": "New Materials Uploaded!",
+    "message": "New materials have been added in Question Banks and PYQ's Category of Operating System.",
+    "date": "2025-04-08T09:32:42",
+    "links": []
+  },
+  {
+    "title": "New Materials Uploaded!",
+    "message": "New materials have been added in Question Banks and PYQ's Category of Software Engineering.",
+    "date": "2025-04-06T14:12:00",
+    "links": []
+  },
+  {
+    "title": "New Materials Uploaded!",
+    "message": "New Materials have been added in Chapters Category in Software Engineering.",
+    "date": "2025-04-02T13:50:00",
+    "links": []
+  },
+  {
+    "title": "New Materials Uploaded!",
+    "message": "New Materials have been added in Question Banks Categories in Computer Organization and Microprocessor Architecture.",
+    "date": "2025-03-29T09:40:00",
+    "links": []
+  },
+  {
+    "title": "New Materials Uploaded!",
+    "message": "New Materials have been added in Question Banks, Handwritten Notes and Refrence Tables Categories in Probability, Statistics and Numerical Methods.",
+    "date": "2025-03-28T12:00:00",
+    "links": []
+  },
+  {
+    "title": "New Materials Uploaded!",
+    "message": "New Materials have been added in Basics, Chapters, Detailed and eBook Categories in Programming in Python and Full Stack Development.",
+    "date": "2025-03-28T09:45:00",
+    "links": []
+  },
+  {
+    "title": "Materio v4 is Out!",
+    "message": "Materio has a visual refresh and better UX with addition of new Category selection finding desired material is made easy without scrolling long lists of files, FullScreen mode along with new viewer is added to make reading experience better.",
+    "date": "2025-03-28T09:00:00",
+    "links": []
+  },
+  {
+    "title": "Materio V3 is Out",
+    "message": "Materio V3 is live! Now based on Jekyll checkout the Release Notes from Settings tab for more details.",
+    "date": "2024-12-12T20:30:00",
+    "links": []
+  },
+  {
+    "title": "Materials Updated",
+    "message": "Few Materials have been added/updated in the PSNM, OS, PPFSD and PGPD.",
+    "date": "2024-12-18T18:34:00",
+    "links": []
+  },
+  {
+    "title": "Test Notification for V4 Channel",
+    "message": "Materio has a brand new visual refresh.",
+    "date": "1970-03-27",
+    "branch": "channels",
+    "links": []
+  }
 ]
