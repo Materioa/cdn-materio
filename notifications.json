@@ -1,12 +1,5 @@
 [
   {
-    "title": "File Deleted",
-    "message": "File \"test page.pdf\" has been removed from the system.",
-    "date": "2025-06-04T16:11:24.231Z",
-    "type": "deletion",
-    "links": []
-  },
-  {
     "title": "New Semester Data Initialized!",
     "message": "5th Semester data have been initialised but it does not necessarily mean it has all the materials available, New materials will be gradually pushed and will be notified via Notification Center.",
     "date": "2025-05-26T12:39:00",
