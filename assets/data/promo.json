@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "title": "hello",
   "description": "hi!",
   "link": "",
@@ -8,5 +8,5 @@
   "isLimitedOffer": true,
   "startDate": "2025-06-20T18:09",
   "endDate": "2025-06-20T18:15",
-  "lastUpdated": "2025-06-20T12:40:17.799Z"
+  "lastUpdated": "2025-06-20T12:40:34.239Z"
 }
