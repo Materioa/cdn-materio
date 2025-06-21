@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "title": "Dynamic Promotion System Active!",
+  "title": "GET THE GIFT OF KNOWLEDGE",
   "description": "This promotional modal is now fully dynamic and managed through the Promotions tab in your profile page. You can update the title, description, images, links, and even set limited-time offers - all from the admin panel!",
-  "link": "https://materioa.netlify.app/referals/pplx",
+  "link": "https://materioa.netlify.app/redirects/pplx",
   "images": [
     "/assets/img/pplx.png"
   ],
@@ -10,5 +10,5 @@
   "isLimitedOffer": false,
   "startDate": "",
   "endDate": "",
-  "lastUpdated": "2025-06-20T13:17:37.650Z"
+  "lastUpdated": "2025-06-21T09:32:46.318Z"
 }
