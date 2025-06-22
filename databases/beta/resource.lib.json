@@ -50,14 +50,6 @@
           "diode"
         ]
       }
-    ],
-    "Physics": [
-      {
-        "type": "Other",
-        "content": [
-          "test page"
-        ]
-      }
     ]
   },
   "2": {
@@ -866,14 +858,6 @@
       {
         "type": "Question Banks",
         "content": []
-      }
-    ],
-    "DAA": [
-      {
-        "type": "Chapters",
-        "content": [
-          "Unit - 1"
-        ]
       }
     ]
   },

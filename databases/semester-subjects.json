@@ -1,27 +1,24 @@
 {
   "1": [
-    "Engineering Mathematics I",
-    "Physics",
-    "Chemistry",
-    "Engineering Graphics",
-    "Basic Electrical Engineering",
-    "Programming for Problem Solving"
+    "oss",
+    "Maths-1",
+    "CTSD-1",
+    "EEE"
   ],
   "2": [
-    "Engineering Mathematics II",
-    "Physics II",
-    "Chemistry II",
-    "Engineering Mechanics",
-    "Basic Electronics Engineering",
-    "Engineering Graphics II"
+    "CTSD-2",
+    "Maths-2",
+    "E-Physics",
+    "GCF",
+    "DT",
+    "ICT"
   ],
   "3": [
-    "Engineering Mathematics III",
-    "Data Structures and Algorithms",
-    "Digital Logic Design",
-    "Computer Organization",
-    "Object Oriented Programming",
-    "Database Management Systems"
+    "Object Oriented Programming with Java",
+    "Design of Data Structures",
+    "Database Management Systems",
+    "Discrete Mathematics",
+    "Digital Electronics"
   ],
   "4": [
     "Engineering Mathematics IV",
@@ -32,37 +29,15 @@
     "Microprocessors"
   ],
   "5": [
-    "Machine Learning",
-    "Artificial Intelligence",
-    "Compiler Design",
-    "Computer Graphics",
-    "Distributed Systems",
-    "Web Technologies",
     "Design and Analysis of Algorithms",
-    "DAA"
+    "Theory of Computation",
+    "Software Engineering",
+    "Enterprise Programming",
+    "Professionalism &Corporate Ethics",
+    "AWS Fundamentals",
+    "Data Analytics and Data Visualization"
   ],
-  "6": [
-    "Data Mining",
-    "Information Security",
-    "Mobile Computing",
-    "Cloud Computing",
-    "Internet of Things",
-    "Elective I"
-  ],
-  "7": [
-    "Major Project I",
-    "Advanced Algorithms",
-    "Blockchain Technology",
-    "DevOps",
-    "Elective II",
-    "Internship"
-  ],
-  "8": [
-    "Major Project II",
-    "Industry Training",
-    "Seminar",
-    "Elective III",
-    "Placement Training",
-    "Final Viva"
-  ]
+  "6": [],
+  "7": [],
+  "8": []
 }
