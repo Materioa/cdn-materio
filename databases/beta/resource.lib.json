@@ -690,14 +690,6 @@
           "Introduction and Analysis of Algorithms - 2",
           "Introduction and Analysis of Algorithms - 1"
         ]
-      },
-      {
-        "type": "Previous Year Papers",
-        "content": []
-      },
-      {
-        "type": "Question Banks",
-        "content": []
       }
     ],
     "Theory of Computation": [
@@ -749,12 +741,57 @@
         ]
       },
       {
+        "type": "Lecture Notes",
+        "content": [
+          "Lecture Notes"
+        ]
+      },
+      {
         "type": "Previous Year Papers",
-        "content": []
+        "content": [
+          "02-05-2024"
+        ]
+      },
+      {
+        "type": "Assignments",
+        "content": [
+          "Assignment - 1",
+          "Assignment - 2",
+          "Assignment - 3",
+          "Assignment - 4",
+          "Assignment - 5",
+          "Assignment - 6",
+          "Assignment - 7",
+          "Assignment - 8"
+        ]
       },
       {
         "type": "Question Banks",
-        "content": []
+        "content": [
+          "Unit - 1 MCQ"
+        ]
+      },
+      {
+        "type": "Lab",
+        "content": [
+          "Experiment - 1",
+          "Experiment - 10",
+          "Experiment - 2",
+          "Experiment - 3",
+          "Experiment - 4",
+          "Experiment - 5",
+          "Experiment - 6",
+          "Experiment - 7",
+          "Experiment - 8",
+          "Experiment - 9"
+        ]
+      },
+      {
+        "type": "Reference Books",
+        "content": [
+          "Software Engineering - A Practioner's Approach",
+          "Software Engineering - Ian Sommerville"
+        ]
       }
     ],
     "Enterprise Programming": [
@@ -777,12 +814,60 @@
         ]
       },
       {
+        "type": "Assignments",
+        "content": [
+          "Assignment 1",
+          "Assignment 2",
+          "Assignment 3",
+          "Assignment 4",
+          "Assignment 5",
+          "Assignment 6"
+        ]
+      },
+      {
+        "type": "Presentations",
+        "content": [
+          "unit-1-1",
+          "unit-1-2",
+          "unit-1-3",
+          "unit-2-1",
+          "unit-2-2",
+          "unit-2-3",
+          "unit-2-4",
+          "unit-3-1",
+          "unit-4-1",
+          "unit-4-2",
+          "unit-4-3",
+          "unit-4-4",
+          "unit-4-5",
+          "unit-5-1",
+          "unit-5-2",
+          "unit-6-1",
+          "unit-6-2"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Question Bank"
+        ]
+      },
+      {
         "type": "Previous Year Papers",
         "content": []
       },
       {
-        "type": "Question Banks",
-        "content": []
+        "type": "Lab",
+        "content": [
+          "Lab Manual"
+        ]
+      },
+      {
+        "type": "Reference Books",
+        "content": [
+          "Advanced Java - Andriy Redko",
+          "O'reilly Java in a Nutshell"
+        ]
       }
     ],
     "Professionalism &Corporate Ethics": [
@@ -853,11 +938,45 @@
       },
       {
         "type": "Previous Year Papers",
-        "content": []
+        "content": [
+          "12-04-2025"
+        ]
+      },
+      {
+        "type": "Assignments",
+        "content": [
+          "Assignment 1",
+          "Assignment 2",
+          "Assignment 3",
+          "Assignement 4",
+          "Assignment 5"
+        ]
+      },
+      {
+        "type": "Lecture Notes",
+        "content": [
+          "Unit 1",
+          "Panda's Notes",
+          "615a7ad7-b6b8-46e7-94d7-f07dc0ea307e-unit-3-chi-square-tests"
+        ]
+      },
+      {
+        "type": "Lab",
+        "content": [
+          "Lab Manual"
+        ]
+      },
+      {
+        "type": "Reference Books",
+        "content": [
+          "O'reilly Think Python"
+        ]
       },
       {
         "type": "Question Banks",
-        "content": []
+        "content": [
+          "Question Bank"
+        ]
       }
     ]
   },
