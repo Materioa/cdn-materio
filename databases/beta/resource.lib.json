@@ -669,8 +669,6 @@
     ]
   },
   "5": {
-   
-   
     "Software Engineering": [
       {
         "type": "Syllabus",
@@ -880,6 +878,18 @@
         "type": "Question Banks",
         "content": [
           "Question Bank"
+        ]
+      }
+    ],
+    "Theory of Computation": [
+      {
+        "type": "Chapters",
+        "content": [
+          "Undecidability",
+          "Turing Machines",
+          "Grammars",
+          "Regular Languages and Finite Automata",
+          "Introduction"
         ]
       }
     ]
