@@ -669,56 +669,8 @@
     ]
   },
   "5": {
-    "Design and Analysis of Algorithms": [
-      {
-        "type": "Syllabus",
-        "content": [
-          "Class",
-          "Laboratory"
-        ]
-      },
-      {
-        "type": "Chapters",
-        "content": [
-          "Introduction and Analysis of Algorithms",
-          "Divide & Conquer Algorithms",
-          "Greedy Algorithms",
-          "Dynamic Programming",
-          "Exploring Graphs",
-          "Backtracking and Branch & Bound",
-          "String Matching & NP Completeness",
-          "Introduction and Analysis of Algorithms - 2",
-          "Introduction and Analysis of Algorithms - 1"
-        ]
-      }
-    ],
-    "Theory of Computation": [
-      {
-        "type": "Syllabus",
-        "content": [
-          "Class",
-          "Laboratory"
-        ]
-      },
-      {
-        "type": "Chapters",
-        "content": [
-          "Introduction",
-          "Regular languages and finite automata",
-          "Grammars",
-          "Turing machines",
-          "Undecidability"
-        ]
-      },
-      {
-        "type": "Previous Year Papers",
-        "content": []
-      },
-      {
-        "type": "Question Banks",
-        "content": []
-      }
-    ],
+   
+   
     "Software Engineering": [
       {
         "type": "Syllabus",
@@ -868,54 +820,6 @@
           "Advanced Java - Andriy Redko",
           "O'reilly Java in a Nutshell"
         ]
-      }
-    ],
-    "Professionalism &Corporate Ethics": [
-      {
-        "type": "Syllabus",
-        "content": [
-          "Class",
-          "Laboratory"
-        ]
-      },
-      {
-        "type": "Chapters",
-        "content": [
-          "Ethics in Engineering",
-          "Group Discussion",
-          "Introduction to B-School Tests",
-          "Listening Skills- Advanced Level",
-          "Preparing Brochures",
-          "Agenda & Minutes of Meeting",
-          "Reading Comprehension; Intermediate level"
-        ]
-      }
-    ],
-    "AWS Fundamentals": [
-      {
-        "type": "Syllabus",
-        "content": [
-          "Class",
-          "Laboratory"
-        ]
-      },
-      {
-        "type": "Chapters",
-        "content": [
-          "Cloud Concepts",
-          "Azure Services",
-          "Security, Privacy, Compliance, and Trust",
-          "Azure Pricing and Support",
-          "Azure SLA and Service Lifecycles"
-        ]
-      },
-      {
-        "type": "Previous Year Papers",
-        "content": []
-      },
-      {
-        "type": "Question Banks",
-        "content": []
       }
     ],
     "Data Analytics and Data Visualization": [
