@@ -880,9 +880,20 @@
           "Question Bank"
         ]
       }
+    ],
+    "Theory of Computation": [
+      {
+        "type": "Chapters",
+        "content": [
+          "Undecidability",
+          "Turing Machines",
+          "Grammars",
+          "Regular Languages and Finite Automata",
+          "Introduction"
+        ]
+      }
     ]
   },
- 
   "9": {
     "Miscellaneous": [
       {
