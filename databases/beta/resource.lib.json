@@ -816,6 +816,34 @@
           "Regular Languages and Finite Automata",
           "Introduction"
         ]
+      },
+      {
+        "type": "Presentations",
+        "content": [
+          "1.1-introduction-to-alphabet,-languages-and-grammars",
+          "1.2-productions-and-derivation",
+          "1.3-chomsky-hierarchy-of-languages",
+          "2.1-regular-expressions-and-languages",
+          "2.2-deterministic-finite-automata-dfa-and-equivalence-with-regular-expressions",
+          "2.3-moore-machines-and-mealy-machines,-conversion-from-mealy-to-moore-and-vice-versa",
+          "2.4-non-deterministic-finite-automata-nfa-and-equivalence-with-dfa",
+          "2.5-regular-grammars-and-equivalence-with-finite-automata",
+          "2.6-properties-of-regular-languages,-pumping-lemma-for-regular-languages",
+          "2.7-minimization-of-finite-automata",
+          "3.1-context-free-grammars-cfg-and-languages-cfl,-chomsky-normal-forms",
+          "3.2-non-deterministic-pushdown-automata-pda-and-equivalence-with-cfg",
+          "3.3-parse-trees,-ambiguity-in-cfg,-pumping-lemma-for-context-free-languages",
+          "3.4-deterministic-pushdown-automata,-closure-properties-of-cfls",
+          "3.5-context-sensitive-languages_-context-sensitive-grammars-csg-and-languages.",
+          "4.1-the-basic-model-for-turing-machines-tm",
+          "4.2-turing-recognizable-recursively-enumerable-and-turing-decidable-recursive-languages-and-their-closure-properties",
+          "4.3-variants-of-turing-machines,-nondeterministic-tms-and-equivalence-with-deterministic-tms",
+          "4.4-unrestricted-grammars-and-equivalence-with-turing-machines",
+          "4.5-tms-as-enumerators.",
+          "5.1-church-turing-thesis",
+          "5.2-universal-turing-machine",
+          "5.3-the-universal-and-diagonalization-languages"
+        ]
       }
     ],
     "Design and Analysis of Algorithms": [
