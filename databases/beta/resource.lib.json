@@ -858,6 +858,18 @@
         "content": [
           "Unit-1 MCQ"
         ]
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "String Matching & NP Completeness",
+          "Backtracking and Branch & Bound",
+          "Exploring Graphs",
+          "Dynamic Programming",
+          "Greedy Algorithms",
+          "Divide & Conquer Algorithms",
+          "Introduction and Analysis of Algorithms"
+        ]
       }
     ],
     "Software Engineering": [
