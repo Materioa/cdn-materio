@@ -844,6 +844,12 @@
           "5.2-universal-turing-machine",
           "5.3-the-universal-and-diagonalization-languages"
         ]
+      },
+      {
+        "type": "Assignments",
+        "content": [
+          "Assignments"
+        ]
       }
     ],
     "Design and Analysis of Algorithms": [
