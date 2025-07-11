@@ -828,11 +828,16 @@
     ],
     "Software Engineering": [
       {
-        "type": "Chapters",
+        "type": "Assignments",
         "content": [
-          "Introduction",
-          "Requirements Engineering",
-          "Software Project Management"
+          "Assignment - 1",
+          "Assignment - 2",
+          "Assignment - 3",
+          "Assignment - 4",
+          "Assignment - 5",
+          "Assignment - 6",
+          "Assignment - 7",
+          "Assignment - 8"
         ]
       }
     ]
