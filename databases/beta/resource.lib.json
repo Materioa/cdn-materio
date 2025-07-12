@@ -885,6 +885,15 @@
           "Lecture Notes"
         ]
       }
+    ],
+    "AWS Fundamentals": [
+      {
+        "type": "Chapters",
+        "content": [
+          " Introduction of Cloud Computing and AWS",
+          "Networking Service Overview "
+        ]
+      }
     ]
   },
   "9": {
