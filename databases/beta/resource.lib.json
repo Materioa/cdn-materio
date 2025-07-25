@@ -665,6 +665,13 @@
           "Question Bank - 1",
           "Question Bank - 2"
         ]
+      },
+      {
+        "type": "Reference Books",
+        "content": [
+          "Software Engineering - A Practioner's Approach",
+          "Software Engineering - Ian Sommerville"
+        ]
       }
     ]
   },
@@ -849,6 +856,12 @@
         "type": "Assignments",
         "content": [
           "Assignments"
+        ]
+      },
+       {
+        "type": "Lecture Notes",
+        "content": [
+          "Lecture Notes - 1"
         ]
       }
     ],
