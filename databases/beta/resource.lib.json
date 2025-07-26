@@ -665,13 +665,6 @@
           "Question Bank - 1",
           "Question Bank - 2"
         ]
-      },
-      {
-        "type": "Reference Books",
-        "content": [
-          "Software Engineering - A Practioner's Approach",
-          "Software Engineering - Ian Sommerville"
-        ]
       }
     ]
   },
@@ -887,6 +880,15 @@
     ],
     "Software Engineering": [
       {
+        "type": "Chapters",
+        "content": [
+          "Introduction",
+          "Software Project Management",
+          "Requirements Engineering",
+          "Requirements Analysis and Specifications"
+        ]
+      },
+      {
         "type": "Question Banks",
         "content": [
           "Unit - 1 MCQ"
@@ -912,12 +914,31 @@
         ]
       },
       {
-        "type": "Chapters",
-        "content": [
-          "Introduction",
-          "Software Project Management",
-          "Requirements Engineering",
-          "Requirements Analysis and Specifications"
+        "type":"Lab",
+        "content":[
+          "Experiment - 1",
+          "Experiment - 2",
+          "Experiment - 3",
+          "Experiment - 4",
+          "Experiment - 5",
+          "Experiment - 6",
+          "Experiment - 7",
+          "Experiment - 8",
+          "Experiment - 9",
+          "Experiment - 10"
+        ]
+      },
+      {
+        "type":"Previous Year Papers",
+        "content":[
+          "02-05-2024"
+        ]
+      },
+      {
+        "type": "Reference Books",
+        "content":[
+          "Software Engineering - Ian Sommerville",
+          "Software Engineering - A Practioner's Approach"
         ]
       }
     ],
