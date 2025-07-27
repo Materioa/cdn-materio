@@ -692,6 +692,7 @@
         "type": "Assignments",
         "content": [
           "Assignment 1",
+          "Assignment - 1 Solution",
           "Assignment 2",
           "Assignment 3",
           "Assignment 4",
@@ -773,6 +774,7 @@
         "type": "Assignments",
         "content": [
           "Assignment 1",
+          "Assignment - 1 Solution",
           "Assignment 2",
           "Assignment 3",
           "Assignement 4",
@@ -810,11 +812,11 @@
       {
         "type": "Chapters",
         "content": [
-          "Undecidability",
-          "Turing Machines",
-          "Grammars",
+          "Introduction",
           "Regular Languages and Finite Automata",
-          "Introduction"
+          "Grammars",
+          "Turing Machines",
+          "Undecidability"
         ]
       },
       {
@@ -910,7 +912,8 @@
           "Assignment - 5",
           "Assignment - 6",
           "Assignment - 7",
-          "Assignment - 8"
+          "Assignment - 8",
+          "Solutions"
         ]
       },
       {
