@@ -730,7 +730,11 @@
       },
       {
         "type": "Previous Year Papers",
-        "content": []
+        "content": [
+          "15-11-2024",
+          "20-08-2024",
+          "30-10-2023"
+        ]
       },
       {
         "type": "Lab",
@@ -917,8 +921,8 @@
         ]
       },
       {
-        "type":"Lab",
-        "content":[
+        "type": "Lab",
+        "content": [
           "Experiment - 1",
           "Experiment - 2",
           "Experiment - 3",
@@ -932,14 +936,14 @@
         ]
       },
       {
-        "type":"Previous Year Papers",
-        "content":[
+        "type": "Previous Year Papers",
+        "content": [
           "02-05-2024"
         ]
       },
       {
         "type": "Reference Books",
-        "content":[
+        "content": [
           "Software Engineering - Ian Sommerville",
           "Software Engineering - A Practioner's Approach"
         ]
