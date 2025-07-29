@@ -860,7 +860,11 @@
       {
         "type": "Lecture Notes",
         "content": [
-          "Lecture Notes - 1"
+          "Lecture Notes - 1",
+          "GrammarsWithPracticeExamples_TOC",
+          "RegularGrammar&ContextFreeGrammar_TOC",
+          "PumpingLemmaForRL_TOC",
+          "ChomskyHierarchy_TOC"
         ]
       }
     ],
