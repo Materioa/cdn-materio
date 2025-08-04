@@ -960,7 +960,8 @@
         "type": "Chapters",
         "content": [
           " Introduction of Cloud Computing and AWS",
-          "Networking Service Overview "
+          "Networking Service Overview ",
+          "AWS Compute Services"
         ]
       }
     ]
