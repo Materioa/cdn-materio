@@ -868,6 +868,26 @@
           "Pumping Lemma for RL",
           "Chomsky Hierarchy"
         ]
+      },
+      {
+        "type": "Other",
+        "content": [
+          "Introduction",
+          "Regular Language and Finite Automata",
+          "Grammar",
+          "Closure Properties of CFL",
+          "Turing machines",
+          "Undecidability"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": [
+          "18-05-19",
+          "28-11-19",
+          "09-08-22",
+          "23-11-23"
+        ]
       }
     ],
     "Design and Analysis of Algorithms": [
