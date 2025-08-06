@@ -986,6 +986,49 @@
           "AWS Compute Services"
         ]
       }
+    ],
+    "Professionalism and Corporate Ethics": [
+      {
+        "type": "Syllabus",
+        "content": [
+          "Class"
+        ]
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Scope of Engineering Ethics",
+          "Accepting & Sharing Responsibility",
+          "Responsible professionals and ethical corporations",
+          "Resolving ethical dilemmas",
+          "Brochure making",
+          "Agenda and MoM"
+        ]
+      },
+      {
+        "type": "Lecture Notes",
+        "content": [
+          "1. Scope of Engineering Ethics",
+          "2. Accepting & Sharing Responsibility",
+          "3. Responsible professionals and ethical corporations",
+          "4. Resolving ethical dilemmas",
+          "5. Case Studies",
+          "6. Brochure Making",
+          "7. Agenda & MoM"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Question Bank - 1"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": [
+          "22-08-24"
+        ]
+      }
     ]
   },
   "9": {
