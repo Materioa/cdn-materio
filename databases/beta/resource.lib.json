@@ -813,7 +813,7 @@
       }
     ],
     "Theory of Computation": [
-       {
+      {
         "type": "Syllabus",
         "content": [
           "Class"
@@ -897,7 +897,7 @@
       }
     ],
     "Design and Analysis of Algorithms": [
-       {
+      {
         "type": "Syllabus",
         "content": [
           "Class",
@@ -921,10 +921,16 @@
           "Backtracking and Branch & Bound",
           "String Matching & NP Completeness"
         ]
+      },
+      {
+        "type": "Other",
+        "content": [
+          "CodeTantra Mid-sem paper solution"
+        ]
       }
     ],
     "Software Engineering": [
-       {
+      {
         "type": "Syllabus",
         "content": [
           "Class",
@@ -998,7 +1004,7 @@
       }
     ],
     "AWS Fundamentals": [
-       {
+      {
         "type": "Syllabus",
         "content": [
           "Class",
