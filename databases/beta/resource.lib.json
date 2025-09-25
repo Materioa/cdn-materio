@@ -813,6 +813,12 @@
       }
     ],
     "Theory of Computation": [
+       {
+        "type": "Syllabus",
+        "content": [
+          "Class"
+        ]
+      },
       {
         "type": "Chapters",
         "content": [
@@ -891,6 +897,13 @@
       }
     ],
     "Design and Analysis of Algorithms": [
+       {
+        "type": "Syllabus",
+        "content": [
+          "Class",
+          "Laboratory"
+        ]
+      },
       {
         "type": "Question Banks",
         "content": [
@@ -911,6 +924,13 @@
       }
     ],
     "Software Engineering": [
+       {
+        "type": "Syllabus",
+        "content": [
+          "Class",
+          "Laboratory"
+        ]
+      },
       {
         "type": "Chapters",
         "content": [
@@ -978,6 +998,13 @@
       }
     ],
     "AWS Fundamentals": [
+       {
+        "type": "Syllabus",
+        "content": [
+          "Class",
+          "Laboratory"
+        ]
+      },
       {
         "type": "Chapters",
         "content": [
