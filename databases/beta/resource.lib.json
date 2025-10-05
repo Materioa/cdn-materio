@@ -813,7 +813,7 @@
       }
     ],
     "Theory of Computation": [
-       {
+      {
         "type": "Syllabus",
         "content": [
           "Class"
@@ -897,7 +897,7 @@
       }
     ],
     "Design and Analysis of Algorithms": [
-       {
+      {
         "type": "Syllabus",
         "content": [
           "Class",
@@ -924,7 +924,7 @@
       }
     ],
     "Software Engineering": [
-       {
+      {
         "type": "Syllabus",
         "content": [
           "Class",
@@ -998,7 +998,7 @@
       }
     ],
     "AWS Fundamentals": [
-       {
+      {
         "type": "Syllabus",
         "content": [
           "Class",
@@ -1059,13 +1059,106 @@
     ],
     "Quant and Reasoning": [
       {
+        "type": "Syllabus",
+        "content": [
+          "Class"
+        ]
+      },
+      {
         "type": "Chapters",
         "content": [
+          "Number system, LCM &. HCF simplification and Approximation",
+          "Averages and Progressions",
           "Ratio & Proportion, Problems on ages and Percentage",
+          "Profit & Loss, partnerships, S.I & C.I",
+          "Time & Work, Pipes and Cisterns, Time Speed and Distance, Problems on Train crossings, Boats & streams",
           "Permutation, Combinations and Probability",
           "Directions & Seating arrangements",
-          "Averages and Progressions",
-          "Number system, LCM &. HCF simplification and Approximation"
+          "Clocks and Calendars",
+          "Cubes & Dice, Syllogism",
+          "BLOOD RELATIONS",
+          "Series Analogy , Odd Man Out , Coding and Decoding"
+        ]
+      },
+      {
+        "type": "Presentations",
+        "content": [
+          "Number System, LCM & HCF, Simplifications and Approximations",
+          "Averages & Progressions"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Question Bank"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": [
+          "22-04-2025"
+        ]
+      },
+      {
+        "type": "Assignments",
+        "content": [
+          "Complete Assignment Questions",
+          "Quantitative Aptitude Questions & Answers"
+        ]
+      },
+      {
+        "type": "Reference Books",
+        "content": [
+          "Ace Reasoning"
+        ]
+      }
+    ],
+    "Artificial Intelligence": [
+      {
+        "type": "Syllabus",
+        "content": [
+          "Class",
+          "Laboratory"
+        ]
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Introduction of Artificial Intelligence",
+          "Search techniques",
+          "Search techniques - Knowledge representation",
+          "Knowledge representation",
+          "Uncertainty",
+          "Fuzzy Sets and Fuzzy Logic",
+          "Natural Language Processing",
+          "Neural Networks and Expert systems"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": [
+          "18-11-2024",
+          "19-04-2025"
+        ]
+      },
+      {
+        "type": "Assignments",
+        "content": [
+          "Assignment-1",
+          "Assignment-2",
+          "Assignment-3"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "QUESTION BANK (DESCRIPTIVE)"
+        ]
+      },
+      {
+        "type": "Lab Manual",
+        "content": [
+          "Lab Manual"
         ]
       }
     ]
