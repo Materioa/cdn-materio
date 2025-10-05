@@ -921,6 +921,12 @@
           "Backtracking and Branch & Bound",
           "String Matching & NP Completeness"
         ]
+      },
+      {
+        "type": "Other",
+        "content": [
+          "CodeTantra Mid-sem paper solution"
+        ]
       }
     ],
     "Software Engineering": [
