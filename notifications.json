@@ -1,6 +1,12 @@
 [
   {
     "title": "New Materials Uploaded!",
+    "message":"New Materials have been added/updated in the AWS Fundamentals",
+    "date":"2025-11-05T19:30:00",
+    "links":[]
+  },
+  {
+    "title": "New Materials Uploaded!",
     "message": "New materials have been added in Quant and Reasoning and Artificial Intelligence.",
     "date": "2025-10-05T16:51:50.097Z",
     "links": []

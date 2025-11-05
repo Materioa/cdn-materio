@@ -1017,11 +1017,78 @@
         ]
       },
       {
+        "type": "AWS Modules",
+        "content": [
+          "Course Introduction",
+          "Module 1 - Cloud Concepts Overview",
+          "Module 2 - Cloud Economics and Billing",
+          "Module 3 - AWS Global Infrastructure Overview",
+          "Module 4 - AWS Cloud Security",
+          "Module 5 - Networking and Content Delivery",
+          "Module 6 - Compute",
+          "Module 7 - Storage",
+          "Module 8 - Databases",
+          "Module 9 - Cloud Architecture",
+          "Module 10 - Automatic Scaling and Monitoring"
+        ]
+      },
+      {
         "type": "Chapters",
         "content": [
           " Introduction of Cloud Computing and AWS",
           "Networking Service Overview ",
           "AWS Compute Services"
+        ]
+      },
+      {
+        "type": "iamneo",
+        "content": [
+          "0.All Unit Neo PPTs",
+          "1.1. AWS_Cloud_Introduction",
+          "1.2. Teaching_Introduction to AWS Cloud",
+          "1.3. Teaching_AWS Cloud Benefits",
+          "1.4. Teaching_AWS Regions and Availability Zones",
+          "1.Introduction to Cloud Computing and AWS",
+          "2.1. Teaching_AWS VPC",
+          "2.2. Teaching_AWS Security Groups",
+          "2.3. Teaching_AWS Direct Connect, Route 53",
+          "2.4. Teaching_AWS CloudFront",
+          "2.Networking Services",
+          "3.1. Teaching_AWS_EC2",
+          "3.2. Teaching_AWS_Load_Balancer",
+          "3.3. Teaching_AWS_Autoscaling",
+          "3.4. Teaching_AWS Lambda",
+          "3.Compute Services",
+          "4.1. Teaching_AWS S3, EBS",
+          "4.2. Teaching_AWS EFS, S3 Glacier, S3 Snowball",
+          "4.Storage Services",
+          "5.1. Teaching_AWS Fundamentals and Security",
+          "5.2. Teaching_AWS_RDS",
+          "5.3. Teaching_AWS DynamoDB",
+          "5.4. Teaching Session_AWS Redshift",
+          "6.1. Teaching_AWS IAM and MFA",
+          "6.2. Teaching_AWS CloudWatch",
+          "6.3. Teaching_AWS Economics",
+          "6.4. Teaching_AWS Billing"
+        ]
+      },
+      {
+        "type": "Lecture Notes",
+        "content": [
+          "Lecture Notes - 1",
+          "Lecture Notes - 2"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Question Bank"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": [
+          "26-09-2025"
         ]
       }
     ],
@@ -1170,6 +1237,29 @@
         "type": "Lab Manual",
         "content": [
           "Lab Manual"
+        ]
+      }
+    ],
+    "Circulars and Time tables": [
+      {
+        "type": "Academics",
+        "content": [
+          "Academic Booklet",
+          "All Subject Syllabus",
+          "PIT - Class Time tables"
+        ]
+      },
+      {
+        "type": "Exam Schedules",
+        "content": [
+          "Exam schedule - Weekly exams (Codetantra)",
+          "Exam schedule - Weekly exams (PULMS)",
+          "Mid Sem Exam Schedule",
+          "Mid Sem Exam Syllabus",
+          "Mid Sem Paper Format - Online Platforms",
+          "End Sem Exam Schedule",
+          "Practical Exam Schedule",
+          "PIT - Practical Rollcall"
         ]
       }
     ]
