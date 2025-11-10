@@ -1,0 +1,12 @@
+[build]
+  functions = "netlify/functions"
+  publish = "."
+
+[functions]
+  # Set directory for serverless functions
+  directory = "netlify/functions"
+
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
