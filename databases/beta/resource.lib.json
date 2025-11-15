@@ -903,7 +903,7 @@
           "Undecidability"
         ]
       },
-       {
+      {
         "type": "Question Banks",
         "content": [
           "Question Bank",
@@ -1064,7 +1064,9 @@
         "content": [
           " Introduction of Cloud Computing and AWS",
           "Networking Service Overview ",
-          "AWS Compute Services"
+          "AWS Compute Services",
+          "AWS Architecture and Database Service",
+          "Storage Services"
         ]
       },
       {
