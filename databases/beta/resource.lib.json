@@ -224,9 +224,22 @@
         "content": [
           "Introduction",
           "Stacks, Recursion and Queue",
+          "Linked List",
+          "Searching & Sorting",
+          "Trees",
+          "Red Black Trees and AVL Trees",
+          "Hashing",
+          "Graph"
+        ]
+      },
+      {
+        "type": "Chapters 2024-25",
+        "content": [
+          "Introduction",
+          "Stacks, Recursion and Queue",
           "Linked Lists",
           "Searching and Sorting",
-          "Trees",
+          "Trees - 1",
           "Red Black Trees and AVL Trees",
           "Hashing",
           "Graphs"
