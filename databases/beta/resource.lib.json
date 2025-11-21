@@ -974,10 +974,22 @@
           "Requirements Analysis and Specifications",
           "Structured System Design",
           "Coding and Unit Testing",
-          "SE_Unit-5",
           "Software Testing and Quality Assurance",
           "CASE Tools and Advance Practices of System  Dependability and Security",
           "Advanced Software Engineering"
+        ]
+      },
+      {
+        "type": "Alternative",
+        "content": [
+          "SE_Unit-1",
+          "SE_Unit-2",
+          "SE_Unit-3",
+          "SE_Unit-4",
+          "SE_Unit-5",
+          "SE_Unit-6",
+          "SE_Unit-7",
+          "SE_Unit-8"
         ]
       },
       {
@@ -985,7 +997,8 @@
         "content": [
           "Unit - 1 MCQ",
           "Question Bank",
-          "All Chapters"
+          "All Chapters",
+          "Question Bank - 2"
         ]
       },
       {
