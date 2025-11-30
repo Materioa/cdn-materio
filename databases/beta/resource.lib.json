@@ -1347,6 +1347,160 @@
       }
     ]
   },
+  "6": {
+    "Quant and Reasoning": [
+      {
+        "type": "Syllabus",
+        "content": []
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Number system, LCM &. HCF simplification and Approximation",
+          "Averages and Progressions",
+          "Ratio & Proportion, Problems on ages and Percentage",
+          "Profit & Loss, partnerships, S.I & C.I",
+          "Time & work , pipes and Cisterns, Time speed and distance , Problems on train crossings, Boats & streams",
+          "Permutation, Combinations and Probability",
+          "Directions & Seating arrangements",
+          "Clocks and Calendars",
+          "Cubes & Dice, Syllogism",
+          "Blood Relations",
+          "Series Analogy , Odd Man Out , Coding and Decoding"
+        ]
+      },
+      {
+        "type": "Presentations",
+        "content": [
+          "Quant and Reasoning - Unit 1",
+          "Averages & Progressions - Concepts, Formulas & Examples"
+        ]
+      },
+      {
+        "type": "Assignments",
+        "content": [
+          "Assignment - 1"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": [
+          "22-04-2025 (303105311)"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Question Bank - 1"
+        ]
+      }
+    ],
+    "Compiler Design": [
+      {
+        "type": "Syllabus",
+        "content": []
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Overview of Compilation",
+          "2.1 Introduction to syntax",
+          "2.2 Introduction to syntax",
+          "2.3",
+          "Chapter-1 Overview of compilation",
+          "Lab Manual"
+        ]
+      }
+    ],
+    "Mobile App Development": [
+      {
+        "type": "Syllabus",
+        "content": [
+          "Android Operating System and Development Enviroment",
+          "Android Components and Resource Handling",
+          "Android User Interface Elements",
+          "Working with Views and Fragment",
+          "Data Storage Techniques",
+          "Web Application Integration Techniques",
+          "Polish and Publish Application"
+        ]
+      },
+      {
+        "type": "Presentations",
+        "content": [
+          "ANDROID O.S & DEVELOPMENT",
+          "ANDROID COMPONENTS & RESOURCE",
+          "ANDROID USER INTERFACE ELEMENTS & LAYOUTS",
+          "WORKING WITH VIEWS & FRAGMENT",
+          "DATA STORAGE & TECHNIQUES",
+          "WEB APPLICATION INTEGRATION",
+          "POLISH & PUBLISH APPLICATION"
+        ]
+      },
+      {
+        "type": "Assignments",
+        "content": [
+          "Assignment - 1",
+          "Assignment - 2",
+          "Assignment - 3"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Question Bank - 1"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": [
+          "23-04-2025 (203105359)",
+          "23-04-2025 (303105379)",
+          "01-05-2024 (203105359)",
+          "29-11-2024 (203105359)"
+        ]
+      },
+      {
+        "type": "Reference Books",
+        "content": [
+          "Android Wireless Application Development - Volume 1- Android Essentials",
+          "Beginning Android 2",
+          "Head First Android Development - A Brain Friendly Guide",
+          "Professional Android Application Development"
+        ]
+      },
+      {
+        "type": "Lab",
+        "content": [
+          "Lab Manual"
+        ]
+      }
+    ],
+    "MEAN Stack": [
+      {
+        "type": "Syllabus",
+        "content": []
+      }
+    ],
+    "Machine Learning": [
+      {
+        "type": "Syllabus",
+        "content": []
+      }
+    ],
+    "High Performance Computing": [
+      {
+        "type": "Syllabus",
+        "content": []
+      }
+    ],
+    "Employability Skills": [
+      {
+        "type": "Syllabus",
+        "content": []
+      }
+    ]
+  },
   "9": {
     "Miscellaneous": [
       {
