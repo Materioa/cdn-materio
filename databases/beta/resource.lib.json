@@ -1499,6 +1499,14 @@
         "type": "Syllabus",
         "content": []
       }
+    ],
+    "MEAN Stack Web Development ": [
+      {
+        "type": "Chapters",
+        "content": [
+          "Introduction"
+        ]
+      }
     ]
   },
   "9": {
