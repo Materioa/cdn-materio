@@ -1351,7 +1351,9 @@
     "Quant and Reasoning": [
       {
         "type": "Syllabus",
-        "content": []
+        "content": [
+          "Class"
+        ]
       },
       {
         "type": "Chapters",
@@ -1398,7 +1400,10 @@
     "Compiler Design": [
       {
         "type": "Syllabus",
-        "content": []
+        "content": [
+          "Laboratory",
+          "Class"
+        ]
       },
       {
         "type": "Chapters",
@@ -1434,7 +1439,10 @@
     "Mobile App Development": [
       {
         "type": "Syllabus",
-        "content": []
+        "content": [
+          "Class",
+          "Laboratory"
+        ]
       },
       {
         "type": "Chapters",
@@ -1517,12 +1525,29 @@
           "Unit - 3",
           "Unit - 6"
         ]
+      },
+      {
+        "type": "Syllabus",
+        "content": [
+          "Class",
+          "Laboratory"
+        ]
       }
     ],
     "Machine Learning": [
       {
         "type": "Syllabus",
-        "content": []
+        "content": [
+          "Class",
+          "Laboratory"
+        ]
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Machine Learning in Practice",
+          "introduction"
+        ]
       }
     ],
     "High Performance Computing": [
@@ -1534,7 +1559,9 @@
     "Employability Skills": [
       {
         "type": "Syllabus",
-        "content": []
+        "content": [
+          "Class"
+        ]
       }
     ]
   },
