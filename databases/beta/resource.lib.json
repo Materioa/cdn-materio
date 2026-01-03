@@ -1480,21 +1480,7 @@
      "MEAN Stack Web Development": [
       {
         "type": "Chapters",
-        "content": [
-          "Introduction",
-          "Introduction To Web Development And The MEAN Stack"
-        ]
-      },
-      {
-        "type": "Lecture Notes",
-        "content": [
-          "Unit - 1",
-          "Unit - 2",
-          "Unit - 3",
-          "Unit - 4",
-          "Unit - 5",
-          "Unit - 6"
-        ]
+        "content": []
       }
      ],
     "Machine Learning": [
