@@ -1532,6 +1532,18 @@
           "Class",
           "Laboratory"
         ]
+      },
+      {
+        "type": "Cheatsheet",
+        "content": [
+          "MongoDB"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "CRUD Operations"
+        ]
       }
     ],
     "Machine Learning": [
