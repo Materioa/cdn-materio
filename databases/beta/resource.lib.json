@@ -1405,8 +1405,10 @@
         "content": []
       },
       {
-         "type": "Lab",
-        "content": ["Lab Manual"]
+        "type": "Lab",
+        "content": [
+          "Lab Manual"
+        ]
       }
     ],
     "Mobile App Development": [
@@ -1415,7 +1417,7 @@
         "content": []
       },
       {
-         "type": "Chapters",
+        "type": "Chapters",
         "content": [
           "Android Operating System and Development Enviroment",
           "Android Components and Resource Handling",
@@ -1477,12 +1479,15 @@
         ]
       }
     ],
-     "MEAN Stack Web Development": [
+    "MEAN Stack Web Development": [
       {
         "type": "Chapters",
-        "content": []
+        "content": [
+          "Introduction",
+          "Introduction To Web Development And The MEAN Stack"
+        ]
       }
-     ],
+    ],
     "Machine Learning": [
       {
         "type": "Syllabus",
