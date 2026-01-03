@@ -1592,7 +1592,8 @@
       {
         "type": "Idk even",
         "content": [
-          "mongodb"
+          "mongodb",
+          "mongo"
         ]
       }
     ]
