@@ -1402,19 +1402,20 @@
       },
       {
         "type": "Chapters",
-        "content": [
-          "Overview of Compilation",
-          "2.1 Introduction to syntax",
-          "2.2 Introduction to syntax",
-          "2.3",
-          "Chapter-1 Overview of compilation",
-          "Lab Manual"
-        ]
+        "content": []
+      },
+      {
+         "type": "Lab",
+        "content": ["Lab Manual"]
       }
     ],
     "Mobile App Development": [
       {
         "type": "Syllabus",
+        "content": []
+      },
+      {
+         "type": "Chapters",
         "content": [
           "Android Operating System and Development Enviroment",
           "Android Components and Resource Handling",
@@ -1476,31 +1477,7 @@
         ]
       }
     ],
-    "MEAN Stack": [
-      {
-        "type": "Syllabus",
-        "content": []
-      }
-    ],
-    "Machine Learning": [
-      {
-        "type": "Syllabus",
-        "content": []
-      }
-    ],
-    "High Performance Computing": [
-      {
-        "type": "Syllabus",
-        "content": []
-      }
-    ],
-    "Employability Skills": [
-      {
-        "type": "Syllabus",
-        "content": []
-      }
-    ],
-    "MEAN Stack Web Development ": [
+     "MEAN Stack Web Development": [
       {
         "type": "Chapters",
         "content": [
@@ -1518,6 +1495,24 @@
           "Unit - 5",
           "Unit - 6"
         ]
+      }
+     ],
+    "Machine Learning": [
+      {
+        "type": "Syllabus",
+        "content": []
+      }
+    ],
+    "High Performance Computing": [
+      {
+        "type": "Syllabus",
+        "content": []
+      }
+    ],
+    "Employability Skills": [
+      {
+        "type": "Syllabus",
+        "content": []
       }
     ]
   },
