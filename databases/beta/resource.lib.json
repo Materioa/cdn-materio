@@ -1402,12 +1402,32 @@
       },
       {
         "type": "Chapters",
-        "content": []
+        "content": [
+          "Overview of Compilation",
+          "Syntax-directed definitions",
+          "Top-down parsing",
+          "Semantic analysis",
+          "Introduction to syntax analysis",
+          "Run time environments",
+          "Introduction to machine code generation and optimization",
+          "Intermediate code generation"
+        ]
       },
       {
         "type": "Lab",
         "content": [
-          "Lab Manual"
+          "Lab Manual",
+          "Practical 2",
+          "Practical 1.1",
+          "Practical 3",
+          "Practical 1.2"
+        ]
+      },
+      {
+        "type": "Lecture Notes",
+        "content": [
+          "Unit - 1",
+          "Unit - 2"
         ]
       }
     ],
