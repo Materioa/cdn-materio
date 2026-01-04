@@ -1,0 +1,29 @@
+[
+    {
+        "path": "storage/object/NaiveText.csv",
+        "name": "NaiveText Dataset",
+        "type": "csv",
+        "semester": "6",
+        "subject": "Machine Learning",
+        "category": "Laboratory",
+        "topic": "Practical 1"
+    },
+    {
+         "path": "storage/object/P_1_Libraries.ipynb",
+        "name": "Libraries.ipynb",
+        "type": "ipynb",
+        "semester": "6",
+        "subject": "Machine Learning",
+        "category": "Laboratory",
+        "topic": "Practical 1"
+    },
+    {
+         "path": "storage/object/P_1_Libraries(1).py",
+        "name": "Libraries.py",
+        "type": "py",
+        "semester": "6",
+        "subject": "Machine Learning",
+        "category": "Laboratory",
+        "topic": "Practical 1"
+    }
+]
