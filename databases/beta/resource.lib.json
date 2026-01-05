@@ -1401,8 +1401,8 @@
       {
         "type": "Syllabus",
         "content": [
-          "Laboratory",
-          "Class"
+          "Class",
+          "Laboratory"
         ]
       },
       {
@@ -1422,10 +1422,10 @@
         "type": "Lab",
         "content": [
           "Lab Manual",
-          "Practical 2",
           "Practical 1.1",
-          "Practical 3",
-          "Practical 1.2"
+          "Practical 1.2",
+          "Practical 2",
+          "Practical 3"
         ]
       },
       {
@@ -1518,11 +1518,11 @@
       {
         "type": "Presentations",
         "content": [
-          "Unit - 2",
           "Unit - 1",
+          "Unit - 2",
+          "Unit - 3",
           "Unit - 4",
           "Unit - 5",
-          "Unit - 3",
           "Unit - 6"
         ]
       },
@@ -1557,8 +1557,65 @@
       {
         "type": "Chapters",
         "content": [
+          "Introduction",
           "Machine Learning in Practice",
-          "introduction"
+          "Supervised Learning",
+          "Supervised Learning-2",
+          "Unsupervise Learning",
+          "En-semble Learning",
+          "Evaluation Metric"
+        ]
+      },
+      {
+        "type": "Lecture Notes",
+        "content": [
+          "Statistics",
+          "Introduction to Data Collection",
+          "Introduction to Machine Learning",
+          "Supervised Learning-I",
+          "Supervised Learning-II",
+          "Unsupervised Learning",
+          "Ensemble Learning",
+          "Evaluation Metrics"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+            "Question Bank - 1"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": [
+          "04-11-2023 (203105515)",
+          "05-04-2024 (203105481)",
+          "18-04-2024 (203105515)",
+          "29-04-2024 (203105399)"
+        ]
+      },
+      {
+        "type": "Assignments",
+        "content": [
+          "Assignment - 1",
+          "Assignment - 2",
+          "Assignment - 3",
+          "Assignment - 4",
+          "Assignment - 5"
+        ]
+      },
+      {
+        "type": "Lab",
+        "content": [
+          "Manual"
+        ]
+      },
+      {
+        "type": "Reference Books",
+        "content": [
+          "Pattern Recognition and Machine Learning - Christopher M. Bishop",
+          "Statistical and Machine Learning Methods for Data Science",
+          "Think Python - O'Reilly"
         ]
       }
     ],
@@ -1585,15 +1642,6 @@
           "Head First Java",
           "DSA Using C - 2nd Edition",
           "Prompt Engineering for LLMs"
-        ]
-      }
-    ],
-    "Test": [
-      {
-        "type": "Idk even",
-        "content": [
-          "mongodb",
-          "mongo"
         ]
       }
     ]
