@@ -216,6 +216,13 @@
           "Multi Threading",
           "Collections Framework"
         ]
+      },
+      {
+        "type": "Additional Reads ",
+        "content": [
+          "Conditional Statements Scenario Questions",
+          "Strings"
+        ]
       }
     ],
     "Design of Data Structures": [
@@ -1582,7 +1589,7 @@
       {
         "type": "Question Banks",
         "content": [
-            "Question Bank - 1"
+          "Question Bank - 1"
         ]
       },
       {
