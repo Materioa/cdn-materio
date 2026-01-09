@@ -1372,6 +1372,22 @@
         ]
       },
       {
+        "type": "Alternative",
+        "content": [
+          "Unit - 1",
+          "Unit - 2",
+          "Unit - 3",
+          "Unit - 4",
+          "Unit - 5",
+          "Unit - 6",
+          "Unit - 7",
+          "Unit - 8",
+          "Unit - 9",
+          "Unit - 10",
+          "Unit - 11"
+        ]
+      },
+      {
         "type": "Presentations",
         "content": [
           "Quant and Reasoning - Unit 1",
@@ -1582,7 +1598,7 @@
       {
         "type": "Question Banks",
         "content": [
-            "Question Bank - 1"
+          "Question Bank - 1"
         ]
       },
       {
