@@ -25,5 +25,26 @@
         "subject": "Machine Learning",
         "category": "Laboratory",
         "topic": "Practical 1"
+    },
+    {
+         "path": "storage/object/Diwali_sales.py",
+        "name": "Diwali_sales.csv",
+        "type": "csv",
+        "semester": "6",
+        "subject": "Machine Learning",
+        "category": "Laboratory",
+        "topic": "Practical 1"
+    },
+    {
+         "path": "storage/object/heart_statlog_cleveland_hungary_final.csv",
+        "name": "heart_statlog_cleveland_hungary_final.csv",
+        "type": "csv",
+        "semester": "6",
+        "subject": "Machine Learning",
+        "category": "Laboratory",
+        "topic": "Practical 1"
+    },
+    {
+
     }
 ]
