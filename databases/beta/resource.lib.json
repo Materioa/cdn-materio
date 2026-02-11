@@ -1438,7 +1438,8 @@
           "Introduction to syntax analysis",
           "Run time environments",
           "Introduction to machine code generation and optimization",
-          "Intermediate code generation"
+          "Intermediate code generation",
+          "LL-1 Parser"
         ]
       },
       {
@@ -1456,6 +1457,19 @@
         "content": [
           "Unit - 1",
           "Unit - 2"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Question Bank-1"
+        ]
+      },
+      {
+        "type": "Assignments",
+        "content": [
+          "Assignment 2",
+          "Assignment 3"
         ]
       }
     ],
