@@ -1418,6 +1418,13 @@
         "content": [
           "Question Bank - 1"
         ]
+      },
+      {
+        "type": "Additional Resources",
+        "content": [
+          "Logical Reasoning Masterclass",
+          "Logical Reasoning - Syllogisms & Blood Relations"
+        ]
       }
     ],
     "Compiler Design": [
@@ -1470,6 +1477,12 @@
         "content": [
           "Assignment 2",
           "Assignment 3"
+        ]
+      },
+      {
+        "type": "Handwritten Notes",
+        "content": [
+          "LR-0 Example"
         ]
       }
     ],
