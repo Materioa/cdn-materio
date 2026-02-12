@@ -1563,7 +1563,12 @@
         "type": "Chapters",
         "content": [
           "Introduction",
-          "Introduction To Web Development And The MEAN Stack"
+          "Introduction To Web Development And The MEAN Stack",
+          "JavaScript",
+          "Introduction to Web Development and the MEAN Stack",
+          "MongoDB",
+          "NodeJS and ExpressJS",
+          "Angular"
         ]
       },
       {
