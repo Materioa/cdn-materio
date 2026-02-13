@@ -1484,6 +1484,12 @@
         "content": [
           "LR-0 Example"
         ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": [
+          "10-04-2025 (303105349)"
+        ]
       }
     ],
     "Mobile App Development": [
@@ -1570,9 +1576,9 @@
         ]
       },
       {
-        "type":"Alternative",
-        "content":[
-              "Introduction",
+        "type": "Alternative",
+        "content": [
+          "Introduction",
           "Introduction To Web Development And The MEAN Stack"
         ]
       },
