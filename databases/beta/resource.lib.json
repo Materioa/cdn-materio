@@ -1605,12 +1605,28 @@
       },
       {
         "type": "Cheatsheet",
-        "content": []
+        "content": [
+          "MongoDB Shell Commands"
+        ]
       },
       {
         "type": "Question Banks",
         "content": [
-          "CRUD Operations"
+          "CRUD Operations",
+          "Question Bank - 1",
+          "Question Bank - 1 Solutions"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": [
+          "01-02-2024 (203105379)"
+        ]
+      },
+      {
+        "type": "Extra",
+        "content": [
+          "Unit - 3 Node and Express JS"
         ]
       }
     ],
