@@ -1726,6 +1726,20 @@
           "Advanced Group Discussion",
           "Personal Interview"
         ]
+      },
+      {
+        "type": "Lecture Notes",
+        "content": [
+          "Unit - 3",
+          "Unit - 4",
+          "Unit - 1"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Question Bank"
+        ]
       }
     ]
   },
