@@ -9,5 +9,11 @@
         }
       ]
     }
+  ],
+  "rewrites": [
+    {
+      "source": "/pdfs/:path*",
+      "destination": "https://media.githubusercontent.com/media/Materioa/cdn-materio/main/pdfs/:path*"
+    }
   ]
 }
