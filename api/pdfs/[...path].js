@@ -1,10 +1,8 @@
 /**
- * Vercel Edge Function – Smart PDF proxy
+ * Vercel Edge Function – LFS-only PDF proxy
  *
- * For every request to /pdfs/<path>, this function:
- *   1. Tries raw.githubusercontent.com first (cheap, no LFS overhead)
- *   2. If the response is tiny (< 1 KB) it's an LFS pointer, so
- *      falls back to media.githubusercontent.com for the actual file
+ * Frontend decides when this endpoint should be used.
+ * This route directly proxies from media.githubusercontent.com.
  */
 
 export const config = { runtime: 'edge' };
@@ -14,10 +12,6 @@ const REPO_NAME = 'cdn-materio';
 const BRANCH = 'main';
 
 const LFS_BASE = `https://media.githubusercontent.com/media/${REPO_OWNER}/${REPO_NAME}/${BRANCH}`;
-const RAW_BASE = `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/${BRANCH}`;
-
-// LFS pointers are ~130 bytes. Anything under 1 KB is definitely not a real PDF.
-const LFS_POINTER_MAX_SIZE = 1024;
 
 export default async function handler(req) {
   const url = new URL(req.url);
@@ -32,34 +26,16 @@ export default async function handler(req) {
     .map(segment => encodeURIComponent(segment))
     .join('/');
 
-  const rawUrl = `${RAW_BASE}/pdfs/${encodedPath}`;
   const lfsUrl = `${LFS_BASE}/pdfs/${encodedPath}`;
 
-  // 1. Try raw first (works for all non-LFS files, no extra overhead)
-  try {
-    const rawRes = await fetch(rawUrl);
-    if (rawRes.ok) {
-      const body = await rawRes.arrayBuffer();
-
-      // If the file is over 1 KB, it's a real PDF — serve it
-      if (body.byteLength > LFS_POINTER_MAX_SIZE) {
-        return buildResponse(body, pdfPath);
-      }
-
-      // Tiny response = LFS pointer, fall through to LFS endpoint
-    }
-  } catch (_) {
-    // raw fetch failed, try LFS
-  }
-
-  // 2. Fallback to LFS media endpoint (for old LFS-tracked files)
+  // Directly fetch from LFS media endpoint.
   try {
     const lfsRes = await fetch(lfsUrl);
     if (lfsRes.ok) {
-      return buildResponse(lfsRes.body, pdfPath, true);
+      return buildResponse(lfsRes.body, pdfPath);
     }
   } catch (_) {
-    // Both failed
+    // Return not found below.
   }
 
   return new Response('PDF not found', {
@@ -68,7 +44,7 @@ export default async function handler(req) {
   });
 }
 
-function buildResponse(body, pdfPath, isStream = false) {
+function buildResponse(body, pdfPath) {
   const filename = decodeURIComponent(pdfPath.split('/').pop());
 
   return new Response(body, {
