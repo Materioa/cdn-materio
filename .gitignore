@@ -6,3 +6,5 @@ scripts/*
 start-local-cdn.bat
 materio.bat
 app.ico
+.vercel
+.env*.local

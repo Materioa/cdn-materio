@@ -12,8 +12,12 @@
   ],
   "rewrites": [
     {
-      "source": "/pdfs/:path*",
-      "destination": "/api/pdfs/:path*"
+      "source": "/api/pdfs/(.*)",
+      "destination": "/api/pdfs?path=$1"
+    },
+    {
+      "source": "/pdfs/(.*)",
+      "destination": "/api/pdfs?path=$1"
     }
   ]
 }
