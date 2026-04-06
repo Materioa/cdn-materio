@@ -6,7 +6,7 @@
         "semester": "6",
         "subject": "Machine Learning",
         "category": "Laboratory",
-        "topic": "Practical 1"
+        "topic": "Practical 5"
     },
     {
          "path": "storage/object/P_1_Libraries.ipynb",
@@ -28,12 +28,12 @@
     },
     {
          "path": "storage/object/Diwali_sales.py",
-        "name": "Diwali_sales.csv",
+        "name": "Diwali Sales dataset",
         "type": "csv",
         "semester": "6",
         "subject": "Machine Learning",
         "category": "Laboratory",
-        "topic": "Practical 1"
+        "topic": "Practical 2"
     },
     {
          "path": "storage/object/heart_statlog_cleveland_hungary_final.csv",
@@ -42,9 +42,150 @@
         "semester": "6",
         "subject": "Machine Learning",
         "category": "Laboratory",
+        "topic": "Practical 10"
+    },
+    {
+        "path": "storage/object/different_clustering_data.csv",
+        "name": "different_clustering_data.csv",
+        "type": "csv",
+        "semester": "6",
+        "subject": "Machine Learning",
+        "category": "Laboratory",
+        "topic": "Practical 8"
+    },
+    {
+        "path": "storage/object/hart.csv",
+        "name": "heart.csv",
+        "type": "csv",
+        "semester": "6",
+        "subject": "Machine Learning",
+        "category": "Laboratory",
         "topic": "Practical 1"
     },
     {
-
+        "path": "storage/object/heart.csv",
+        "name": "heart.csv",
+        "type": "csv",
+        "semester": "6",
+        "subject": "Machine Learning",
+        "category": "Laboratory",
+        "topic": "Practical 9"
+    },
+     {
+        "path": "storage/object/xor_dataset.csv",
+        "name": "xor_dataset.csv",
+        "type": "csv",
+        "semester": "6",
+        "subject": "Machine Learning",
+        "category": "Laboratory",
+        "topic": "Practical 12"
+    },
+    {
+        "path": "storage/object/pr1.ipynb",
+        "name": "pr1.ipynb",
+        "type": "ipynb",
+        "semester": "6",
+        "subject": "Machine Learning",
+        "category": "Laboratory",
+        "topic": "Practical 1"
+    },
+    {
+        "path": "storage/object/pr2.ipynb",
+        "name": "pr2.ipynb",
+        "type": "ipynb",
+        "semester": "6",
+        "subject": "Machine Learning",
+        "category": "Laboratory",
+        "topic": "Practical 2"
+    },
+    {
+        "path": "storage/object/pr3.ipynb",
+        "name": "pr3.ipynb",
+        "type": "ipynb",
+        "semester": "6",
+        "subject": "Machine Learning",
+        "category": "Laboratory",
+        "topic": "Practical 3"
+    },
+    {
+        "path": "storage/object/pr4.ipynb",
+        "name": "pr4.ipynb",
+        "type": "ipynb",
+        "semester": "6",
+        "subject": "Machine Learning",
+        "category": "Laboratory",
+        "topic": "Practical 4"
+    },
+    {
+        "path": "storage/object/pr5.ipynb",
+        "name": "pr5.ipynb",
+        "type": "ipynb",
+        "semester": "6",
+        "subject": "Machine Learning",
+        "category": "Laboratory",
+        "topic": "Practical 5"
+    },
+    {
+        "path": "storage/object/pr6.ipynb",
+        "name": "pr6.ipynb",
+        "type": "ipynb",
+        "semester": "6",
+        "subject": "Machine Learning",
+        "category": "Laboratory",
+        "topic": "Practical 6"
+    },
+    {
+        "path": "storage/object/pr7.ipynb",
+        "name": "pr7.ipynb",
+        "type": "ipynb",
+        "semester": "6",
+        "subject": "Machine Learning",
+        "category": "Laboratory",
+        "topic": "Practical 7"
+    },
+    {
+        "path": "storage/object/pr8.ipynb",
+        "name": "pr8.ipynb",
+        "type": "ipynb",
+        "semester": "6",
+        "subject": "Machine Learning",
+        "category": "Laboratory",
+        "topic": "Practical 8"
+    },
+    {
+        "path": "storage/object/pr9.ipynb",
+        "name": "pr9.ipynb",
+        "type": "ipynb",
+        "semester": "6",
+        "subject": "Machine Learning",
+        "category": "Laboratory",
+        "topic": "Practical 9"
+    },
+    {
+        "path": "storage/object/pr10.ipynb",
+        "name": "pr10.ipynb",
+        "type": "ipynb",
+        "semester": "6",
+        "subject": "Machine Learning",
+        "category": "Laboratory",
+        "topic": "Practical 10"
+    },
+    {
+        "path": "storage/object/pr11.ipynb",
+        "name": "pr11.ipynb",
+        "type": "ipynb",
+        "semester": "6",
+        "subject": "Machine Learning",
+        "category": "Laboratory",
+        "topic": "Practical 11"
+    },
+    {
+        "path": "storage/object/pr12.ipynb",
+        "name": "pr12.ipynb",
+        "type": "ipynb",
+        "semester": "6",
+        "subject": "Machine Learning",
+        "category": "Laboratory",
+        "topic": "Practical 12"
     }
 ]
