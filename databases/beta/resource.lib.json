@@ -1488,7 +1488,8 @@
       {
         "type": "Previous Year Papers",
         "content": [
-          "10-04-2025 (303105349)"
+          "10-04-2025 (303105349)",
+          "19-02-2026 (303105349)"
         ]
       }
     ],
@@ -1709,6 +1710,12 @@
       {
         "type": "Syllabus",
         "content": []
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": [
+          "17-11-2025 (303105355)"
+        ]
       }
     ],
     "Employability Skills": [
@@ -1739,6 +1746,14 @@
         "type": "Question Banks",
         "content": [
           "Question Bank"
+        ]
+      }
+    ],
+    "Cyber Security": [
+      {
+        "type": "Chapters",
+        "content": [
+          "Information Security"
         ]
       }
     ]
