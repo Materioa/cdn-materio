@@ -1709,7 +1709,10 @@
     "High Performance Computing": [
       {
         "type": "Syllabus",
-        "content": []
+        "content": [
+          "Class",
+          "Laboratory"
+        ]
       },
       {
         "type": "Previous Year Papers",
@@ -1754,6 +1757,13 @@
         "type": "Chapters",
         "content": [
           "Information Security"
+        ]
+      },
+      {
+        "type": "Syllabus",
+        "content": [
+          "Laboratory",
+          "Class"
         ]
       }
     ]
