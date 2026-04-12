@@ -1717,7 +1717,43 @@
       {
         "type": "Previous Year Papers",
         "content": [
-          "17-11-2025 (303105355)"
+          "17-11-2025 (303105355)",
+          "02-05-2024 (203105428)",
+          "27-10-2023 (203105428)"
+        ]
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Introduction to High Performance Computing",
+          "Parallel Programming",
+          "Fundamental Design Issues in HPC",
+          "Synchronization",
+          "Parallel Programing using GPU",
+          "Performance Measures"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Question Bank - 1",
+          "Question Bank - 2"
+        ]
+      },
+      {
+        "type": "Additional Materials",
+        "content": [
+          "Intro HPC - IITK",
+          "Amdhals Law",
+          "CPU, GPU and Parallel Computing",
+          "Implict vs Explicit Parallelism",
+          "SIMD-SPMD"
+        ]
+      },
+      {
+        "type": "Lab",
+        "content": [
+          "Manual"
         ]
       }
     ],
