@@ -1429,6 +1429,9 @@
     ],
     "Compiler Design": [
       {
+        "notice": "Old Chapters moved to alternatives category - chapters pdfs have been updated"
+      },
+      {
         "type": "Syllabus",
         "content": [
           "Class",
@@ -1437,6 +1440,19 @@
       },
       {
         "type": "Chapters",
+        "content": [
+          "Ch1 - Overview of Compilation",
+          "Ch2 - Introduction to syntax analysis",
+          "Ch3 - Top-down parsing",
+          "Ch4 - Syntax-directed definitions",
+          "Ch5 - Semantic analysis",
+          "Ch6 - Intermediate code generation",
+          "Ch7 - Run time environments",
+          "Ch8 - Introduction to machine code generation and optimization"
+        ]
+      },
+      {
+        "type": "Alternative",
         "content": [
           "Overview of Compilation",
           "Syntax-directed definitions",
@@ -1463,7 +1479,9 @@
         "type": "Lecture Notes",
         "content": [
           "Unit - 1",
-          "Unit - 2"
+          "Unit - 2",
+          "Chapter-4",
+          "Chapter-5"
         ]
       },
       {
@@ -1482,7 +1500,14 @@
       {
         "type": "Handwritten Notes",
         "content": [
-          "LR-0 Example"
+          "LR-0 Example",
+          "CLR",
+          "CD_1",
+          "CD_2",
+          "CD_Intro-Overview-Phase01(Notes_12_02_2026)",
+          "CD_Phase02-tillSLR(1)_(Notes_12_02_2026)",
+          "CD_Phase03-SemanticAnalysis(Notes_17_03_2026)",
+          "CD_SLR(1)Grammar-OperatorPrecedence(Notes_17_03_2026)"
         ]
       },
       {
