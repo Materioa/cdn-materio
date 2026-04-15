@@ -1814,7 +1814,11 @@
       {
         "type": "Chapters",
         "content": [
-          "Information Security"
+          "Ch1 - Information Security",
+          "Ch2 - Systems Vulnerability Scanning",
+          "Ch3 - Network Defense tools",
+          "Ch4 - Introduction to Cyber Crime and law",
+          "Ch5 - Introduction of Cyber Crime Investigation"
         ]
       },
       {
