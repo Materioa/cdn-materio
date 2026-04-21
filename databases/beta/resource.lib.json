@@ -1598,7 +1598,9 @@
           "JavaScript",
           "MongoDB",
           "NodeJS and ExpressJS",
-          "Angular"
+          "Angular", 
+          "Integration (Insightroom edition)",
+          "Deployment and Best Practices (Insightroom edition)"
         ]
       },
       {
