@@ -1600,7 +1600,7 @@
           "JavaScript",
           "MongoDB",
           "NodeJS and ExpressJS",
-          "Angular", 
+          "Angular",
           "Integration (Insightroom edition)",
           "Deployment and Best Practices (Insightroom edition)"
         ]
@@ -1830,6 +1830,16 @@
         "type": "Syllabus",
         "content": [
           "Laboratory",
+          "Class"
+        ]
+      }
+    ]
+  },
+  "7": {
+    "Information and Network Security": [
+      {
+        "type": "Syllabus",
+        "content": [
           "Class"
         ]
       }
