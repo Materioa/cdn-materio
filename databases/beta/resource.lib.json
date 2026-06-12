@@ -1842,6 +1842,51 @@
         "content": [
           "Class"
         ]
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Ch - 1 Introduction",
+          "Ch - 2 Classical Encryption Techniques",
+          "Ch - 4 Multiple Encryptions and Triple DES",
+          "Ch - 3 Block Cipher and Data Encryption Standard",
+          "Ch - 5 Number Theory and Advanced Encryption Standard",
+          "Ch - 6 Asymmetric Ciphers",
+          "Ch - 7 Cryptographic Data Integrity Algorithms",
+          "Ch - 8 Key Management and Distribution"
+        ]
+      },
+      {
+        "type": "Lecture Notes",
+        "content": [
+          "Chapter - 1",
+          "Chapter - 2",
+          "Chapter - 3",
+          "Chapter - 4",
+          "Chapter - 6",
+          "Chapter - 5",
+          "Chapter - 7",
+          "Chapter - 8"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": [
+          "08-12-2025 (203105310)",
+          "10-04-2024 (I03105407)"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Question Bank - 1"
+        ]
+      },
+      {
+        "type": "Lab",
+        "content": [
+          "Manual 2026"
+        ]
       }
     ]
   },
