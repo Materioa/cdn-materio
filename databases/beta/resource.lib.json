@@ -1943,6 +1943,63 @@
           "Hadoop Requirements"
         ]
       }
+    ],
+    "Data Science": [
+      {
+        "type": "Chapters",
+        "content": [
+          "Chapter - 2 Data Preprocessing",
+          "Chapter - 1 Introduction",
+          "Chapter - 4 Basics of R",
+          "Chapter - 3 Concept Learning",
+          "Chapter - 5 Model Fitting in R",
+          "Chapter - 6 Visualization",
+          "Chapter - 7 Performance Evaluation in R"
+        ]
+      },
+      {
+        "type": "Lecture Notes",
+        "content": [
+          "Chapter - 1",
+          "Chapter - 2",
+          "Chapter - 4",
+          "Chapter - 3",
+          "Chapter - 5",
+          "Chapter - 7",
+          "Chapter - 6"
+        ]
+      },
+      {
+        "type": "Assignments",
+        "content": [
+          "Assignment - 1",
+          "Assignment - 2",
+          "Assignment - 3",
+          "Assignment - 4",
+          "Assignment - 5"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": [
+          "07-10-2022 (203105483)",
+          "22-03-2023 (203105483",
+          "30-03-2022 (203105483)",
+          "15-04-2026 (203105483)"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Question Bank - 1"
+        ]
+      },
+      {
+        "type": "Lab",
+        "content": [
+          "Manual"
+        ]
+      }
     ]
   },
   "9": {
