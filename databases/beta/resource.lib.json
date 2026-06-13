@@ -1898,6 +1898,50 @@
           "Ch - 3 Basics of Hadoop",
           "Ch - 4 Hadoop Related Tools"
         ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Question Bank - 1"
+        ]
+      },
+      {
+        "type": "Lecture Notes",
+        "content": [
+          "Chapter - 1",
+          "Chapter - 2"
+        ]
+      },
+      {
+        "type": "Assignments",
+        "content": [
+          "Assignment - 1",
+          "Assignment - 2",
+          "Assignment - 4",
+          "Assignment - 3"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": [
+          "19-12-2025 (203105493)",
+          "27-12-2025 (203105443)",
+          "19-12-2025 (303105289)"
+        ]
+      },
+      {
+        "type": "Lab",
+        "content": [
+          "Manual"
+        ]
+      },
+      {
+        "type": "Guides",
+        "content": [
+          "Hadoop Installation and Usage Guide",
+          "Hadoop Installation Windows",
+          "Hadoop Requirements"
+        ]
       }
     ]
   },
