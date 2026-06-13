@@ -1888,6 +1888,17 @@
           "Manual 2026"
         ]
       }
+    ],
+    "Big Data Analysis": [
+      {
+        "type": "Chapters",
+        "content": [
+          "Ch - 1 Introduction",
+          "Ch - 2 NoSQL Data Management",
+          "Ch - 3 Basics of Hadoop",
+          "Ch - 4 Hadoop Related Tools"
+        ]
+      }
     ]
   },
   "9": {
