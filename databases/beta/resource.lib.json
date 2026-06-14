@@ -2000,6 +2000,66 @@
           "Manual"
         ]
       }
+    ],
+    "Cyber Security": [
+      {
+        "type": "Chapters",
+        "content": [
+          "Ch - 1 Information Security",
+          "Ch - 2 Systems Vulnerability Scanning",
+          "Ch - 3 Network Defence Tools",
+          "Ch - 5 Introduction to Cyber Crime Investigation",
+          "Ch - 4 Introduction to Cyber Crime and Law"
+        ]
+      },
+      {
+        "type": "Lecture Notes",
+        "content": [
+          "Chapter - 2",
+          "Chapter - 1",
+          "Chapter - 3",
+          "Chapter - 4",
+          "Chapter - 5"
+        ]
+      },
+      {
+        "type": "Assignments",
+        "content": [
+          "Assignment - 1",
+          "Assignment - 2",
+          "Assignment - 3",
+          "Assignment - 5",
+          "Assignment - 4"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": [
+          "17-04-2026 (303105341)",
+          "06-12-2025 (303105341)",
+          "18-11-2025 (303105341)",
+          "25-04-2025 (303105341)"
+        ]
+      },
+      {
+        "type": "Question Banks",
+        "content": [
+          "Question Bank - 1"
+        ]
+      },
+      {
+        "type": "Lab",
+        "content": [
+          "Practical - 1",
+          "Practical - 2",
+          "Practical - 3",
+          "Practical - 4",
+          "Practical - 5",
+          "Practical - 6",
+          "Practical - 7",
+          "Practical - 8"
+        ]
+      }
     ]
   },
   "9": {
