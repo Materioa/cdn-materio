@@ -1803,9 +1803,9 @@
       {
         "type": "Lecture Notes",
         "content": [
+          "Unit - 1",
           "Unit - 3",
-          "Unit - 4",
-          "Unit - 1"
+          "Unit - 4"
         ]
       },
       {
@@ -1848,8 +1848,8 @@
         "content": [
           "Ch - 1 Introduction",
           "Ch - 2 Classical Encryption Techniques",
-          "Ch - 4 Multiple Encryptions and Triple DES",
           "Ch - 3 Block Cipher and Data Encryption Standard",
+          "Ch - 4 Multiple Encryptions and Triple DES",
           "Ch - 5 Number Theory and Advanced Encryption Standard",
           "Ch - 6 Asymmetric Ciphers",
           "Ch - 7 Cryptographic Data Integrity Algorithms",
@@ -1863,8 +1863,8 @@
           "Chapter - 2",
           "Chapter - 3",
           "Chapter - 4",
-          "Chapter - 6",
           "Chapter - 5",
+          "Chapter - 6",
           "Chapter - 7",
           "Chapter - 8"
         ]
@@ -1917,15 +1917,15 @@
         "content": [
           "Assignment - 1",
           "Assignment - 2",
-          "Assignment - 4",
-          "Assignment - 3"
+          "Assignment - 3",
+          "Assignment - 4"
         ]
       },
       {
         "type": "Previous Year Papers",
         "content": [
-          "19-12-2025 (203105493)",
           "27-12-2025 (203105443)",
+          "19-12-2025 (203105493)",
           "19-12-2025 (303105289)"
         ]
       },
@@ -1948,10 +1948,10 @@
       {
         "type": "Chapters",
         "content": [
-          "Chapter - 2 Data Preprocessing",
           "Chapter - 1 Introduction",
-          "Chapter - 4 Basics of R",
+          "Chapter - 2 Data Preprocessing",
           "Chapter - 3 Concept Learning",
+          "Chapter - 4 Basics of R",
           "Chapter - 5 Model Fitting in R",
           "Chapter - 6 Visualization",
           "Chapter - 7 Performance Evaluation in R"
@@ -1982,10 +1982,10 @@
       {
         "type": "Previous Year Papers",
         "content": [
-          "07-10-2022 (203105483)",
+          "15-04-2026 (203105483)",
           "22-03-2023 (203105483",
-          "30-03-2022 (203105483)",
-          "15-04-2026 (203105483)"
+          "07-10-2022 (203105483)",
+          "30-03-2022 (203105483)"
         ]
       },
       {
@@ -2015,8 +2015,8 @@
       {
         "type": "Lecture Notes",
         "content": [
-          "Chapter - 2",
           "Chapter - 1",
+          "Chapter - 2",
           "Chapter - 3",
           "Chapter - 4",
           "Chapter - 5"
@@ -2028,8 +2028,8 @@
           "Assignment - 1",
           "Assignment - 2",
           "Assignment - 3",
-          "Assignment - 5",
-          "Assignment - 4"
+          "Assignment - 4",
+          "Assignment - 5"
         ]
       },
       {
