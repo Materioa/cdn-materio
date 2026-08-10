@@ -1841,8 +1841,7 @@
         "type": "Syllabus",
         "content": [
           "Class",
-          "Laboratory",
-          "Class"
+          "Laboratory"
         ]
       },
       {
@@ -1892,6 +1891,13 @@
       }
     ],
     "Big Data Analysis": [
+       {
+        "type": "Syllabus",
+        "content": [
+          "Class",
+          "Laboratory"
+        ]
+      },
       {
         "type": "Chapters",
         "content": [
@@ -1944,16 +1950,16 @@
           "Hadoop Installation Windows",
           "Hadoop Requirements"
         ]
-      },
-      {
+      }
+    ],
+    "Data Science": [
+       {
         "type": "Syllabus",
         "content": [
           "Class",
           "Laboratory"
         ]
-      }
-    ],
-    "Data Science": [
+      },
       {
         "type": "Chapters",
         "content": [
@@ -2008,16 +2014,16 @@
         "content": [
           "Manual"
         ]
-      },
-      {
+      }
+    ],
+    "Cyber Security": [
+       {
         "type": "Syllabus",
         "content": [
           "Class",
           "Laboratory"
         ]
-      }
-    ],
-    "Cyber Security": [
+      },
       {
         "type": "Chapters",
         "content": [
@@ -2074,13 +2080,6 @@
           "Practical - 6",
           "Practical - 7",
           "Practical - 8"
-        ]
-      },
-      {
-        "type": "Syllabus",
-        "content": [
-          "Class",
-          "Laboratory"
         ]
       }
     ],
