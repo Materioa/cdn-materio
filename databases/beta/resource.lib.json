@@ -1840,6 +1840,8 @@
       {
         "type": "Syllabus",
         "content": [
+          "Class",
+          "Laboratory",
           "Class"
         ]
       },
@@ -2058,6 +2060,21 @@
           "Practical - 6",
           "Practical - 7",
           "Practical - 8"
+        ]
+      },
+      {
+        "type": "Syllabus",
+        "content": [
+          "Class",
+          "Laboratory"
+        ]
+      }
+    ],
+    "Cyber Physical Systems": [
+      {
+        "type": "Syllabus",
+        "content": [
+          "Class"
         ]
       }
     ]
