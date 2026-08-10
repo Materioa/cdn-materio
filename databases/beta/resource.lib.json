@@ -1944,6 +1944,13 @@
           "Hadoop Installation Windows",
           "Hadoop Requirements"
         ]
+      },
+      {
+        "type": "Syllabus",
+        "content": [
+          "Class",
+          "Laboratory"
+        ]
       }
     ],
     "Data Science": [
@@ -2000,6 +2007,13 @@
         "type": "Lab",
         "content": [
           "Manual"
+        ]
+      },
+      {
+        "type": "Syllabus",
+        "content": [
+          "Class",
+          "Laboratory"
         ]
       }
     ],
