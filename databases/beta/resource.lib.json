@@ -1891,7 +1891,7 @@
       }
     ],
     "Big Data Analysis": [
-       {
+      {
         "type": "Syllabus",
         "content": [
           "Class",
@@ -1953,7 +1953,7 @@
       }
     ],
     "Data Science": [
-       {
+      {
         "type": "Syllabus",
         "content": [
           "Class",
@@ -2017,11 +2017,12 @@
       }
     ],
     "Cyber Security": [
-       {
+      {
         "type": "Syllabus",
         "content": [
           "Class",
-          "Laboratory"
+          "Laboratory",
+          "Class"
         ]
       },
       {
