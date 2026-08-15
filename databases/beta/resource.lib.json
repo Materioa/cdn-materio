@@ -1849,12 +1849,11 @@
         "content": [
           "Ch - 1 Introduction",
           "Ch - 2 Classical Encryption Techniques",
-          "Ch - 3 Block Cipher and Data Encryption Standard",
-          "Ch - 4 Multiple Encryptions and Triple DES",
-          "Ch - 5 Number Theory and Advanced Encryption Standard",
-          "Ch - 6 Asymmetric Ciphers",
-          "Ch - 7 Cryptographic Data Integrity Algorithms",
-          "Ch - 8 Key Management and Distribution"
+          "Ch - 3 Block Cipher and Data Encryption Standard, Multiple Encryptions and Triple DES",
+          "Ch - 4 Number Theory and Advanced Encryption Standard",
+          "Ch - 5 Asymmetric Ciphers",
+          "Ch - 6 Cryptographic Data Integrity Algorithms",
+          "Ch - 7 Key Management and Distribution"
         ]
       },
       {
