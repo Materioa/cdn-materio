@@ -2118,6 +2118,24 @@
           "Manual"
         ]
       }
+    ],
+    "Image Processing": [
+      {
+        "type": "Chapters",
+        "content": [
+          "Ch - 1 Digital Image Fundamentals",
+          "Ch - 5 Image Compression",
+          "Ch - 6 Morphology Image Processing",
+          "Ch - 8 Object Recognition",
+          "Ch - 7 Image Segmentation"
+        ]
+      },
+      {
+        "type": "Lab",
+        "content": [
+          "Manual"
+        ]
+      }
     ]
   },
   "9": {
