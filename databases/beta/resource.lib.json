@@ -2127,7 +2127,32 @@
           "Ch - 5 Image Compression",
           "Ch - 6 Morphology Image Processing",
           "Ch - 8 Object Recognition",
-          "Ch - 7 Image Segmentation"
+          "Ch - 7 Image Segmentation",
+          "Ch - 3 Image Filtering in the Frequency Domain",
+          "Ch - 2 Image Enhancement"
+        ]
+      },
+      {
+        "type": "Lab",
+        "content": [
+          "Manual"
+        ]
+      }
+    ],
+    "Deep Learning with NLP": [
+      {
+        "type": "Syllabus",
+        "content": [
+          "Class",
+          "Laboratory"
+        ]
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Ch - 1 Introduction to Natural Language Processing",
+          "Ch - 3 Word Vector Representations",
+          "Ch - 4 Recurrent Neural Network for NLP"
         ]
       },
       {
