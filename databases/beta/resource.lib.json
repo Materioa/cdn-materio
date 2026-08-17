@@ -2089,6 +2089,35 @@
           "Class"
         ]
       }
+    ],
+    "Software Testing and Quality Assurance": [
+      {
+        "type": "Chapters",
+        "content": [
+          "Ch - 1 Software Testing",
+          "Ch - 2 Testing Techniques",
+          "Ch - 3 Object Oriented Testing Methods",
+          "Ch - 4 Testing Process and Specialized System",
+          "Ch - 5 Software Quality Assurance Concepts and Standards",
+          "Ch - 6 Risk Management"
+        ]
+      },
+      {
+        "type": "Previous Year Papers",
+        "content": [
+          "19-12-2025 (303105377)",
+          "28-03-2023 (203105395)",
+          "21-10-2022 (203105395)",
+          "07-04-2022 (203105395)",
+          "14-10-2021 (203105395)"
+        ]
+      },
+      {
+        "type": "Lab",
+        "content": [
+          "Manual"
+        ]
+      }
     ]
   },
   "9": {
