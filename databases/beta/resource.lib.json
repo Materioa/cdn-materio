@@ -2173,6 +2173,14 @@
           "Prompt Engineering for LLMs"
         ]
       }
+    ],
+    "Paper Formats": [
+      {
+        "type": "Mid Semester",
+        "content": [
+          "New Format 2026"
+        ]
+      }
     ]
   }
 }
