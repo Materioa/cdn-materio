@@ -1,60 +1,60 @@
 {
-    "2": {
-        "ACTW": [
-            {
-                "type": "Chapters",
-                "content": [
-                    "Developing Effective Listening Skills",
-                    "Error Analysis",
-                    "Delivering Different Types of Speeches",
-                    "Professional Presentations",
-                    "Essay writing",
-                    "Reading Comprehension",
-                    "Project Proposal",
-                    "Misplaced Modifiers",
-                    "Movie Review",
-                    "Narrative Writing",
-                    "Writing Reports",
-                    "Critical Thinking",
-                    "Activity Session (Presentation)"
-                ]
-            }
+  "2": {
+    "ACTW": [
+      {
+        "type": "Chapters",
+        "content": [
+          "Developing Effective Listening Skills",
+          "Error Analysis",
+          "Delivering Different Types of Speeches",
+          "Professional Presentations",
+          "Essay writing",
+          "Reading Comprehension",
+          "Project Proposal",
+          "Misplaced Modifiers",
+          "Movie Review",
+          "Narrative Writing",
+          "Writing Reports",
+          "Critical Thinking",
+          "Activity Session (Presentation)"
         ]
-    },
-    "3": {
-        "Professional Communication Skills": []
-    },
-    "4": {
-        "Professional Grooming and Personality Development": [
-            {
-                "type": "Syllabus",
-                "content": [
-                    "Syllabus"
-                ]
-            },
-            {
-                "type": "Chapters",
-                "content": [
-                    "Self Development and Assessment",
-                    "Corporate Etiquette",
-                    "Public Speaking",
-                    "Reading Skills Activity & Reading Comprehension",
-                    "Listening Skills- Inquiry Based Listening Questions"
-                ]
-            }
-        ],
-        "Computer Organization and Microprocessor": [
-            {
-                "type": "Chapters",
-                "content": [
-                    "Computer Organization - Register Transfer and Basic Computer Design Register Transfer",
-                    "Computer Organization - Assembler and Memory Organization"
-                ]
-            }
+      }
+    ]
+  },
+  "3": {
+    "Professional Communication Skills": []
+  },
+  "4": {
+    "Professional Grooming and Personality Development": [
+      {
+        "type": "Syllabus",
+        "content": [
+          "Syllabus"
         ]
-    },
-    "5":{
-         "Design and Analysis of Algorithms": [
+      },
+      {
+        "type": "Chapters",
+        "content": [
+          "Self Development and Assessment",
+          "Corporate Etiquette",
+          "Public Speaking",
+          "Reading Skills Activity & Reading Comprehension",
+          "Listening Skills- Inquiry Based Listening Questions"
+        ]
+      }
+    ],
+    "Computer Organization and Microprocessor": [
+      {
+        "type": "Chapters",
+        "content": [
+          "Computer Organization - Register Transfer and Basic Computer Design Register Transfer",
+          "Computer Organization - Assembler and Memory Organization"
+        ]
+      }
+    ]
+  },
+  "5": {
+    "Design and Analysis of Algorithms": [
       {
         "type": "Syllabus",
         "content": [
@@ -77,7 +77,7 @@
         ]
       }
     ],
-     "Theory of Computation": [
+    "Theory of Computation": [
       {
         "type": "Syllabus",
         "content": [
@@ -125,7 +125,7 @@
         ]
       }
     ],
-     "AWS Fundamentals": [
+    "AWS Fundamentals": [
       {
         "type": "Syllabus",
         "content": [
@@ -152,7 +152,7 @@
         "content": []
       }
     ],
-     "Software Engineering": [
+    "Software Engineering": [
       {
         "type": "Syllabus",
         "content": [
@@ -224,9 +224,8 @@
         "content": [
           "Software Engineering - A Practioner's Approach",
           "Software Engineering - Ian Sommerville",
-"test"
         ]
       }
     ]
-    }
+  }
 }
