@@ -2132,6 +2132,60 @@
           "Week - 7",
           "Week - 8"
         ]
+      },
+      {
+        "type": "NPTEL Assignments 2022",
+        "content": [
+          "Assignment-W0",
+          "Assignment-W1",
+          "Assignment-W2",
+          "Assignment-W3",
+          "Assignment-W4",
+          "Assignment-W5",
+          "Assignment-W7",
+          "Assignment-W8",
+          "Assignment-W9",
+          "Assignment-W10",
+          "Assignment-W11",
+          "Assignment-W12"
+        ]
+      },
+      {
+        "type": "NPTEL Assignments 2024",
+        "content": [
+          "Merged",
+          "Assignment-W0",
+          "Assignment-W1",
+          "Assignment-W2",
+          "Assignment-W3",
+          "Assignment-W4",
+          "Assignment-W5",
+          "Assignment-W6",
+          "Assignment-W7",
+          "Assignment-W8",
+          "Assignment-W9",
+          "Assignment-W10",
+          "Assignment-W11",
+          "Assignment-W12"
+        ]
+      },
+      {
+        "type": "NPTEL Assignments 2025",
+        "content": [
+          "Merged",
+          "Assignment 1 Solution",
+          "Assignment 2 Solution",
+          "Assignment 3 Solution",
+          "Assignment 4 Solution",
+          "Assignment 5 Solution",
+          "Assignment 6 Solution",
+          "Assignment 7 Solution",
+          "Assignment 8 Solution",
+          "Assignment 9 Solution",
+          "Assignment 10 Solution",
+          "Assignment 11 Solution",
+          "Assignment 12 Solution"
+        ]
       }
     ],
     "Software Testing and Quality Assurance": [
