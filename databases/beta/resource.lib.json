@@ -1887,6 +1887,19 @@
         "content": [
           "Manual 2026"
         ]
+      },
+      {
+        "type": "Extra Notes",
+        "content": [
+          "Lecture note-1",
+          "Lecture note-2",
+          "Lecture note-3",
+          "Lecture note-4",
+          "Lecture note-5",
+          "Lecture note-6",
+          "Lecture note-7",
+          "Lecture note-8"
+        ]
       }
     ],
     "Big Data Analysis": [
